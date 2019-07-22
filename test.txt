@@ -1,0 +1,2370 @@
+
+<!DOCTYPE doctype html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="always" name="referrer"/>
+  <meta content="https://www.daraz.com.bd/shop/yellow" property="og:url">
+   <meta content="website" property="og:type">
+    <meta content="Yellow | BD" property="og:title"/>
+    <meta content="Shop online with Yellow now! Visit Yellow on Daraz." property="og:description"/>
+    <meta content="https://static-01.daraz.com.bd/other/shop/38b424720ade7caffae4a6a6134a9870.jpeg_200x200.jpg" property="og:image"/>
+    <meta content="a2a0e" name="data-spm"/>
+    <title>
+     Yellow Bangladesh Online Shop - Yellow Online Store - Daraz.com.bd
+    </title>
+    <meta content="Yellow online shop at Daraz Bangladesh. Buy Yellow products online from Yellow store in bangladesh at ✓Best Prices ✓Cash on delivery ✓Brand Warranty" name="description">
+     <link href="https://www.daraz.com.bd/shop/yellow/" rel="canonical"/>
+     <meta content="index, follow" name="robots"/>
+     <meta content="on" http-equiv="x-dns-prefetch-control"/>
+     <link href="//laz-g-cdn.alicdn.com/lazada-decorate/lazada-mod-lib/0.0.38/LazadaModLib.min.css" rel="stylesheet" type="text/css"/>
+     <link href="//laz-g-cdn.alicdn.com/lazada-decorate/shop-render/2.0.17/pages/index/index.bundle.css" rel="stylesheet" type="text/css"/>
+     <script src="//laz-g-cdn.alicdn.com/alife/lib/0.0.14/jquery/1.8.1/jquery.min.js">
+     </script>
+     <script src="//laz-g-cdn.alicdn.com/??tb/tracker/4.2.0/p/index/index.js,mtb/lib-windvane/2.1.8/windvane.js,mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.4.2/mtop.js,mtb/lib-env/1.9.10/env.js,mtb/lib-httpurl/1.3.8/httpurl.js,lzdmod/lib-mtop-middlewares/5.2.0/index.js">
+     </script>
+     <script text="text/javascript">
+      window.LZD_RETCODE_PAGENAME = 'lazada-shop-bd';
+     </script>
+     <script>
+      var dataLayer = window.dataLayer || [];
+        dataLayer.push({
+            "core": {
+                "country": "BD",
+                "currencyCode": "BDT",
+                "language": "en",
+                "layoutType": "desktop"
+            },
+            "page": {"xParams": "_p_typ=slr&_p_isdpp=1&_p_slr=8&_sb_storeid=1370&_p_shop=1370"},
+            "pagetype": "shop",
+            "v_voya": 1
+        });
+     </script>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <!-- isNewRender:$isNewRender -->
+ <body data-spm="8553159" style="background-color: #f2f3f7">
+  <script>
+   with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","cfgver=1.0&aplus",id="beacon-aplus",src="//assets.alicdn.com/g/alilog??aplus_plugin_lazada/daraz_loader.js,mlog/aplus_int.js")
+  </script>
+  <!--
+    originalUrl query: 
+    {"wh_language":"en","wh_channel":"shop","wh_site":"bd","wh_env":"product","wh_charset":"utf-8","wh_version":"2"}
+-->
+  <script>
+   window.__bl ={};
+    window._blReport=function(e,t){window.__bl&&(__bl.api?__bl[e].apply(__bl,t):(__bl.pipe=__bl.pipe||[],__bl.pipe.push([e].concat(t))))},window.addEventListener("error",function(e){_blReport("error",[e.error,e])}),window.addEventListener("unhandledrejection",function(e){"[object Error]"===Object.prototype.toString.call(e.reason)&&_blReport("error",[e.reason])});
+  </script>
+  <script>
+   window.g_config = window.g_config || {};
+  window.g_config.regionID = 'BD';
+  window.g_config.language = 'en';
+  </script>
+  <script src="//laz-g-cdn.alicdn.com/lzd/assets/0.0.2/??babel-polyfill/6.26.0/polyfill.min.js,react/16.2.0/react.production.min.js,react-dom/16.2.0/react-dom.production.min.js">
+  </script>
+  <script src="//laz-g-cdn.alicdn.com/lzd/assets/0.0.5/next/0.19.21/next.min.js">
+  </script>
+  <link href="//laz-g-cdn.alicdn.com/lzdmod/??site-nav-pc-daraz/5.4.18/pc/index.css,site-menu-nav-pc-daraz/5.1.1/pc/index.css,site-menu-pc-daraz/5.1.3/pc/index.css" rel="stylesheet"/>
+  <script>
+   window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["@ali/lzdmod-site-nav-pc-daraz/pc/index.css","@ali/lzdmod-site-menu-nav-pc-daraz/pc/index.css","@ali/lzdmod-site-menu-pc-daraz/pc/index.css"];
+  </script>
+  <div class="mui-zebra-module" data-module-id="7459419030" data-spm="7459419030" data-version="5.4.18" id="J_7459419030">
+   <script src="//laz-g-cdn.alicdn.com/lzd/??polyfill/0.0.1/index.js,react/0.0.2/16.1.1/react.js,react/0.0.2/16.1.1/react-dom.js">
+   </script>
+   <link href="//laz-g-cdn.alicdn.com/lazada-search-fe/daraz-searchbox/0.0.2/index.css" rel="stylesheet"/>
+   <script src="//laz-g-cdn.alicdn.com/lazada-search-fe/daraz-searchbox/0.0.2/index.js">
+   </script>
+   <script>
+    window.g_config = window.g_config || {};
+  window.g_config.voyagerVersion = '2';
+  window.g_config.voyagerEnv = 'product';
+  window.g_config.channel = 'shop';
+   </script>
+   <div class="site-nav J_NavScroll" data-config="{}" data-mod-name="@ali/lzdmod-site-nav-pc-daraz/pc/index" id="J_LzdSiteNav">
+    <div class="yatra-header">
+     <div class="lzd-header lzd-header-full" data-spm="header" data-tag="links">
+      <div class="lzd-header-content-wrap J_NavScroll" id="topActionHeader">
+       <div class="lzd-header-content">
+        <div class="lzd-links-bar" id="topActionLinks">
+         <div class="links-list header-content BD en">
+          <div class="top-links-item">
+           <a class="orange" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1" href="//www.daraz.com.bd/mobile-apps/" id="topActionDownload">
+            SAVE MORE ON APP
+           </a>
+          </div>
+          <div class="top-links-item" id="topActionSell">
+           <a class="grey" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" href="//www.daraz.com.bd/wow/i/bd/help-pages/sell-on-daraz/">
+            Sell on Daraz
+           </a>
+          </div>
+          <div class="top-links-item" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3" id="topActionCustomCare">
+           <span>
+            CUSTOMER CARE
+           </span>
+           <div class="lzd-customcare-popup top-popup-wrap">
+            <div class="top-popup-content l-customcare-content">
+             <ul class="care-list">
+              <li class="care-item">
+               <a class="care-item-anchor" href="//www.daraz.com.bd/helpcenter/">
+                <span class="care-icon help-center">
+                </span>
+                Help Center
+               </a>
+              </li>
+              <li class="care-item">
+               <a class="care-item-anchor" href="//www.daraz.com.bd/helpcenter/order/">
+                <span class="care-icon returns-refunds">
+                </span>
+                Order
+               </a>
+              </li>
+              <li class="care-item">
+               <a class="care-item-anchor" href="//www.daraz.com.bd/helpcenter/delivery/">
+                <span class="care-icon shipping-delivery">
+                </span>
+                Shipping &amp; Delivery
+               </a>
+              </li>
+              <li class="care-item">
+               <a class="care-item-anchor" href="//www.daraz.com.bd/helpcenter/payment/">
+                <span class="care-icon order-payment">
+                </span>
+                Payment
+               </a>
+              </li>
+              <li class="care-item">
+               <a class="care-item-anchor" href="//www.daraz.com.bd/wow/i/bd/help-pages/how-to-return/">
+                <span class="care-icon refund-money">
+                </span>
+                Returns &amp; Refunds
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+          <div class="top-links-item grey" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4" id="topActionTrack">
+           <span>
+            Track my order
+           </span>
+           <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
+            <div class="top-popup-content lzd-track-content">
+             <div id="topActionMyLastOrder">
+             </div>
+             <div class="track-title">
+              Track my order
+             </div>
+             <form class="track-order-form" id="topActionTrackForm">
+              <label class="top-input-label" for="topActionTrackOrderNumber">
+               Your order number:
+              </label>
+              <div class="top-input-wrap track-order-input-wrap">
+               <input class="order-text top-input" id="topActionTrackOrderNumber" placeholder="eg.123456789"/>
+               <button class="top-button button-submit" type="button">
+                <i class="icon icon-arrow-on-button">
+                </i>
+               </button>
+              </div>
+              <p class="track-order-more-text">
+               For any other inquiries,
+               <a href="//www.daraz.com.bd/contact-us/" title="For any other inquiries,">
+                Click here
+               </a>
+              </p>
+             </form>
+             <div class="error-message" id="topActionTrackErrorMsg">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="top-links-item grey" id="anonLogin">
+           <a class="grey" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" href="//member.daraz.com.bd/user/login">
+            Login
+           </a>
+          </div>
+          <div class="top-links-item grey" id="anonSignup">
+           <a class="grey" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" href="//member.daraz.com.bd/user/register">
+            SIGNUP
+           </a>
+          </div>
+          <div class="top-links-item top-links-item-hidden" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7" id="topActionUserAccont">
+           <span class="grey" id="myAccountTrigger">
+           </span>
+           <div class="lzd-account-popup top-popup-wrap" id="lzdMyAccountPop">
+            <div class="top-popup-content lzd-account-content">
+             <ul class="account-list">
+              <li class="account-item">
+               <a class="account-item-anchor" href="//member.daraz.com.bd/user/account#/">
+                <span class="account-icon test manage-account">
+                </span>
+                Manage My Account
+               </a>
+              </li>
+              <li class="account-item">
+               <a class="account-item-anchor" href="//my.daraz.com.bd/customer/order/index/">
+                <span class="account-icon test my-orders">
+                </span>
+                My Orders
+               </a>
+              </li>
+              <li class="account-item">
+               <a class="account-item-anchor" href="//my.daraz.com.bd/wishlist/index">
+                <span class="account-icon test wishlist">
+                </span>
+                My Wishlist &amp; Followed Stores
+               </a>
+              </li>
+              <li class="account-item">
+               <a class="account-item-anchor" href="//my.daraz.com.bd/customer/myReview/my-reviews">
+                <span class="account-icon test my-reviews">
+                </span>
+                My Reviews
+               </a>
+              </li>
+              <li class="account-item">
+               <a class="account-item-anchor" href="//my.daraz.com.bd/customer/returns/index?requestType=return">
+                <span class="account-icon test returns">
+                </span>
+                My Returns &amp; Cancellations
+               </a>
+              </li>
+              <li class="account-item">
+               <a class="account-item-anchor" href="//member.daraz.com.bd/user/logout">
+                <span class="account-icon test logout">
+                </span>
+                Logout
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+          <div class="top-links-item grey" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d8" id="topActionSwitchLang">
+           <span>
+            ভাষা
+           </span>
+           <div class="lzd-switch-popup top-popup-wrap" id="lzdSwitchPop">
+            <div class="top-popup-content lzd-switch-content">
+             <div class="lzd-switch-item" data-lang="bn">
+              <span class="lzd-switch-icon lzd-switch-icon-bn">
+              </span>
+              BN / Bengali
+             </div>
+             <div class="lzd-switch-item currentSelected" data-lang="en">
+              <span class="lzd-switch-icon lzd-switch-icon-en">
+              </span>
+              EN / English
+              <div class="lzd-switch-checked">
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="lzd-logo-bar">
+         <div class="logo-bar-content header-content">
+          <div class="lzd-logo-content">
+           <a data-spm="dhome" href="//www.daraz.com.bd/">
+            <img alt="" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1HOIkg3ZC2uNjSZFnXXaxZpXa.png"/>
+           </a>
+          </div>
+          <div class="lzd-nav-search" data-spm="search">
+           <div data-spm-click="gostr=/lzdpub.header.search;locaid=d_go" id="button">
+           </div>
+          </div>
+          <div class="lzd-nav-cart">
+           <a data-spm="dcart" href="//cart.daraz.com.bd/cart?scm=1003.4.icms-zebra-100022782-2872099.OTHER_5410630461_2521613">
+            <span class="cart-icon">
+             <svg height="22px" version="1.1" viewbox="0 0 25 22" width="25px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+              <title>
+               cart
+              </title>
+              <desc>
+               Created with Sketch.
+              </desc>
+              <defs>
+               <polyline id="path-1" points="0 0.00306976744 24.7219388 0.00306976744 24.7219388 22 0 22">
+               </polyline>
+               <polyline id="path-3" points="0 0.00306976744 24.7219388 0.00306976744 24.7219388 22 0 22">
+               </polyline>
+              </defs>
+              <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+               <g id="cart">
+                <g id="icon-cart">
+                 <path d="M0,0.00312093023 L0,2.04963256 L3.26734694,2.04963256 L7.77397959,15.2665163 L23.1602041,15.2665163 L24.7214286,4.61749302 L5.75561224,3.02070233 L4.72602041,0.00312093023 L0,0.00312093023 Z M6.47653061,5.13526047 L22.3872449,6.47470233 L21.397449,13.2200047 L9.23265306,13.2200047 L6.47653061,5.13526047 Z" fill="#212121" fill-rule="nonzero" id="Fill-1">
+                 </path>
+                 <g id="Group-8">
+                  <g id="Group-4">
+                   <g id="Fill-2-Clipped">
+                    <mask fill="white" id="mask-2">
+                     <use xlink:href="#path-1">
+                     </use>
+                    </mask>
+                    <g id="path-1">
+                    </g>
+                    <path d="M10.9269388,19.8042465 C10.9269388,21.0168047 9.94683673,22.0001535 8.73714286,22.0001535 C7.52795918,22.0001535 6.54785714,21.0168047 6.54785714,19.8042465 C6.54785714,18.5916884 7.52795918,17.6083395 8.73714286,17.6083395 C9.94683673,17.6083395 10.9269388,18.5916884 10.9269388,19.8042465" fill="#212121" fill-rule="nonzero" id="Fill-2" mask="url(#mask-2)">
+                    </path>
+                   </g>
+                  </g>
+                  <g id="Group-7">
+                   <g id="Fill-5-Clipped">
+                    <mask fill="white" id="mask-4">
+                     <use xlink:href="#path-3">
+                     </use>
+                    </mask>
+                    <g id="path-3">
+                    </g>
+                    <path d="M24.3623469,19.8042465 C24.3623469,21.0168047 23.3822449,22.0001535 22.172551,22.0001535 C20.9633673,22.0001535 19.9832653,21.0168047 19.9832653,19.8042465 C19.9832653,18.5916884 20.9633673,17.6083395 22.172551,17.6083395 C23.3822449,17.6083395 24.3623469,18.5916884 24.3623469,19.8042465" fill="#212121" fill-rule="nonzero" id="Fill-5" mask="url(#mask-4)">
+                    </path>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </svg>
+            </span>
+            <span class="cart-num" id="topActionCartNumber">
+             3
+            </span>
+           </a>
+          </div>
+          <div class="lzd-header-banner" id="topActionLiveUpBanner">
+           <a class="lzd-header-banner-ewallet" data-spm="dewallet" href="//www.daraz.com.bd/mobile-apps/" id="topActionEWallet" target="_blank">
+            <img alt="Voucher" src="//laz-img-cdn.alicdn.com/images/ims-web/TB124c8aBr0gK0jSZFnXXbRRXXa.png"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="wrap-site-nav-menu">
+        <div class="mui-zebra-module" data-module-id="1315358880" data-spm="1315358880" data-version="5.1.1" id="J_1315358880">
+         <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-config="{}" data-mod-name="@ali/lzdmod-site-menu-nav-pc-daraz/pc/index">
+          <div class="lzd-site-menu-nav-container">
+           <div class="lzd-site-menu-nav-category">
+            <a class="lzd-site-menu-nav-category-label">
+             <span class="lzd-site-menu-nav-category-text">
+              Categories
+             </span>
+            </a>
+            <div class="lzd-site-menu-nav-menu">
+             <div class="mui-zebra-module" data-module-id="3442298940" data-spm="3442298940" data-version="5.1.3" id="J_3442298940">
+              <div class="lzd-site-nav-menu-dropdown" data-config="{}" data-mod-name="@ali/lzdmod-site-menu-pc-daraz/pc/index">
+               <ul class="lzd-site-menu-root" data-spm="cate">
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No1">
+                 <a>
+                  <span>
+                   Electronic Devices
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
+                 <a>
+                  <span>
+                   Electronic Accessories
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
+                 <a>
+                  <span>
+                   TV &amp; Home Appliances
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No4">
+                 <a>
+                  <span>
+                   Health &amp; Beauty
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No5">
+                 <a>
+                  <span>
+                   Babies &amp; Toys
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No6">
+                 <a>
+                  <span>
+                   Groceries &amp; Pets
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No7">
+                 <a>
+                  <span>
+                   Home &amp; Lifestyle
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No8">
+                 <a>
+                  <span>
+                   Women's Fashion
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No9">
+                 <a>
+                  <span>
+                   Men's Fashion
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No10">
+                 <a>
+                  <span>
+                   Watches &amp; Accessories
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No11">
+                 <a>
+                  <span>
+                   Sports &amp; Outdoor
+                  </span>
+                 </a>
+                </li>
+                <li class="lzd-site-menu-root-item" id="Level_1_Category_No12">
+                 <a>
+                  <span>
+                   Automotive &amp; Motorbike
+                  </span>
+                 </a>
+                </li>
+                <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_1_1">
+                  <a href="//www.daraz.com.bd/smartphones/">
+                   <span>
+                    Mobiles
+                   </span>
+                  </a>
+                  <script class="J_data_0_0" type="text">
+                   [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Xiaomi Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/xiaomi/"},{"childCategoryName":"Samsung Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/samsung/"},{"childCategoryName":"Huawei Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/huawei/"},{"childCategoryName":"Apple iPhones","childCategoryUrl":"//www.daraz.com.bd/smartphones/apple/"},{"childCategoryName":"Symphony Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/symphony/"},{"childCategoryName":"Walton Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/walton/"},{"childCategoryName":"Nokia Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/nokia/"},{"childCategoryName":"Oppo Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/oppo/"},{"childCategoryName":"OnePlus Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/oneplus/"},{"childCategoryName":"Sony Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/sony/"},{"childCategoryName":"HTC Mobile Phones","childCategoryUrl":"//www.daraz.com.bd/smartphones/htc/"}]
+                  </script>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_1_2">
+                  <a href="//www.daraz.com.bd/tablets/">
+                   <span>
+                    Tablets
+                   </span>
+                  </a>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
+                  <a href="//www.daraz.com.bd/laptops/">
+                   <span>
+                    Laptops
+                   </span>
+                  </a>
+                  <script class="J_data_0_2" type="text">
+                   [{"childCategoryName":"Laptops & Notebooks","childCategoryUrl":"//www.daraz.com.bd/traditional-laptops/"},{"childCategoryName":"Gaming Laptops","childCategoryUrl":"//www.daraz.com.bd/gaming-laptops/"},{"childCategoryName":"Macbook","childCategoryUrl":"//www.daraz.com.bd/macbooks/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
+                  <a href="//www.daraz.com.bd/desktop-computer/">
+                   <span>
+                    Desktops
+                   </span>
+                  </a>
+                  <script class="J_data_0_3" type="text">
+                   [{"childCategoryName":"All-In-One","childCategoryUrl":"//www.daraz.com.bd/computer-all-in-ones/"},{"childCategoryName":"Gaming Desktops","childCategoryUrl":"//www.daraz.com.bd/gaming-desktops-monitors/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
+                  <a href="//www.daraz.com.bd/gaming-consoles/">
+                   <span>
+                    Gaming Consoles
+                   </span>
+                  </a>
+                  <script class="J_data_0_4" type="text">
+                   [{"childCategoryName":"PlayStation Consoles","childCategoryUrl":"//www.daraz.com.bd/playstation-consoles/"},{"childCategoryName":"Playstation Games","childCategoryUrl":"//www.daraz.com.bd/playstation-games/"},{"childCategoryName":"Playstation Controllers","childCategoryUrl":"//www.daraz.com.bd/gaming-controllers/"},{"childCategoryName":"Nintendo Games","childCategoryUrl":"//www.daraz.com.bd/nintendo-games/"},{"childCategoryName":"Xbox Games","childCategoryUrl":"//www.daraz.com.bd/xbox-games/"},{"childCategoryName":"Other Gaming Consoles","childCategoryUrl":"//www.daraz.com.bd/gaming-others/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
+                  <a href="//www.daraz.com.bd/dslr-hybrid-cameras/">
+                   <span>
+                    DSLR
+                   </span>
+                  </a>
+                  <script class="J_data_0_5" type="text">
+                   [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mirrorless","childCategoryUrl":"//www.daraz.com.bd/mirrorless/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_1_7">
+                  <a href="//www.daraz.com.bd/camera-lenses/">
+                   <span>
+                    Camera Lenses
+                   </span>
+                  </a>
+                  <script class="J_data_0_6" type="text">
+                   [{"childCategoryName":"DSLR Lenses","childCategoryUrl":"//www.daraz.com.bd/dslr-camera-lenses/"},{"childCategoryName":"Smartphone Lenses","childCategoryUrl":"//www.daraz.com.bd/smartphone-lenses/"},{"childCategoryName":"Lens Accessories","childCategoryUrl":"//www.daraz.com.bd/camera-lens-accessories/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_1_8">
+                  <a href="//www.daraz.com.bd/camcorders/">
+                   <span>
+                    Action/Video Cameras
+                   </span>
+                  </a>
+                  <script class="J_data_0_7" type="text">
+                   [{"childCategoryName":"Sports & Action Camera","childCategoryUrl":"//www.daraz.com.bd/sport-action-camera/"},{"childCategoryName":"Video Camera","childCategoryUrl":"//www.daraz.com.bd/video-camera/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_1_9">
+                  <a href="//www.daraz.com.bd/security-cameras/">
+                   <span>
+                    Security Cameras
+                   </span>
+                  </a>
+                  <script class="J_data_0_8" type="text">
+                   [{"childCategoryName":"IP Security Cameras","childCategoryUrl":"//www.daraz.com.bd/security-surveillance/"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
+                  <a href="//www.daraz.com.bd/mobiles-tablets-accessories/">
+                   <span>
+                    Mobile Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_1_0" type="text">
+                   [{"childCategoryName":"Phone Cases","childCategoryUrl":"//www.daraz.com.bd/mobile-cases-covers/"},{"childCategoryName":"Power Banks","childCategoryUrl":"//www.daraz.com.bd/mobile-power-banks/"},{"childCategoryName":"Cables & Converters","childCategoryUrl":"//www.daraz.com.bd/other-phone-tablet-accessories/"},{"childCategoryName":"Wall Chargers","childCategoryUrl":"//www.daraz.com.bd/phone-tablet-chargers/"},{"childCategoryName":"Wireless Chargers","childCategoryUrl":"//www.daraz.com.bd/bluetooth-accessories/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
+                  <a href="//www.daraz.com.bd/audio/">
+                   <span>
+                    Audio
+                   </span>
+                  </a>
+                  <script class="J_data_1_1" type="text">
+                   [{"childCategoryName":"Headphones & Headset","childCategoryUrl":"//www.daraz.com.bd/headphones-headsets/"},{"childCategoryName":"Home Entertainment","childCategoryUrl":"//www.daraz.com.bd/audio-home-entertainment/"},{"childCategoryName":"Bluetooth Speakers","childCategoryUrl":"//www.daraz.com.bd/portable-speakers/"},{"childCategoryName":"Live sound & Stage Equipment","childCategoryUrl":"//www.daraz.com.bd/live-sound-stage/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
+                  <a href="//www.daraz.com.bd/wearable-technology/">
+                   <span>
+                    Wearable
+                   </span>
+                  </a>
+                  <script class="J_data_1_2" type="text">
+                   [{"childCategoryName":"Smartwatches","childCategoryUrl":"//www.daraz.com.bd/smart-watches/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"//www.daraz.com.bd/virtual-reality/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
+                  <a href="//www.daraz.com.bd/gaming-consoles/">
+                   <span>
+                    Console Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_1_3" type="text">
+                   [{"childCategoryName":"Playstation Controllers","childCategoryUrl":"//www.daraz.com.bd/gaming-controllers/"},{"childCategoryName":"Other Gaming Accessories","childCategoryUrl":"//www.daraz.com.bd/gaming-accessories/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
+                  <a href="//www.daraz.com.bd/camera-accessories/">
+                   <span>
+                    Camera Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_1_4" type="text">
+                   [{"childCategoryName":"Memory Cards","childCategoryUrl":"//www.daraz.com.bd/camera-memory-cards/"},{"childCategoryName":"Lenses","childCategoryUrl":"//www.daraz.com.bd/camera-lenses/"},{"childCategoryName":"Tripods & Monopods","childCategoryUrl":"//www.daraz.com.bd/tripods-monopods/"},{"childCategoryName":"Camera Cases, Covers and Bags","childCategoryUrl":"//www.daraz.com.bd/camera-bags/"},{"childCategoryName":"Lighting & Studio Equipment","childCategoryUrl":"//www.daraz.com.bd/lighting-studio-equipment/"},{"childCategoryName":"Dry Box","childCategoryUrl":"//www.daraz.com.bd/dry-box/"},{"childCategoryName":"Batteries","childCategoryUrl":"//www.daraz.com.bd/camera-batteries/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
+                  <a href="//www.daraz.com.bd/computing-peripherals-accessories/">
+                   <span>
+                    Computer Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_1_5" type="text">
+                   [{"childCategoryName":"Monitors","childCategoryUrl":"//www.daraz.com.bd/computer-monitors/"},{"childCategoryName":"Mice","childCategoryUrl":"//www.daraz.com.bd/computer-accessories-mouse/"},{"childCategoryName":"PC Audio","childCategoryUrl":"//www.daraz.com.bd/pc-audio/"},{"childCategoryName":"Keyboards","childCategoryUrl":"//www.daraz.com.bd/keyboard/"},{"childCategoryName":"Mice & Keyboard Combos","childCategoryUrl":"//www.daraz.com.bd/mice-keyboard-combos/"},{"childCategoryName":"Power Cord & Adaptors","childCategoryUrl":"//www.daraz.com.bd/computer-adapters/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
+                  <a href="//www.daraz.com.bd/computing-storage/">
+                   <span>
+                    Storage
+                   </span>
+                  </a>
+                  <script class="J_data_1_6" type="text">
+                   [{"childCategoryName":"External Hard Drives","childCategoryUrl":"//www.daraz.com.bd/external-hard-drives/"},{"childCategoryName":"Internal Hard Drives","childCategoryUrl":"//www.daraz.com.bd/internal-hard-drives/"},{"childCategoryName":"Flash Drives","childCategoryUrl":"//www.daraz.com.bd/usb-flash-drives/"},{"childCategoryName":"OTG Drives","childCategoryUrl":"//www.daraz.com.bd/storage-otg-drives/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
+                  <a href="//www.daraz.com.bd/printers-scanners/">
+                   <span>
+                    Printers
+                   </span>
+                  </a>
+                  <script class="J_data_1_7" type="text">
+                   [{"childCategoryName":"Printers","childCategoryUrl":"//www.daraz.com.bd/multi-function-printers/"},{"childCategoryName":"Ink & Toners","childCategoryUrl":"//www.daraz.com.bd/printer-ink/"},{"childCategoryName":"Printer Stands","childCategoryUrl":"//www.daraz.com.bd/printer-stands/"},{"childCategoryName":"Fax Machines","childCategoryUrl":"//www.daraz.com.bd/fax-machines/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
+                  <a href="//www.daraz.com.bd/components-spare-parts/">
+                   <span>
+                    Computer Components
+                   </span>
+                  </a>
+                  <script class="J_data_1_8" type="text">
+                   [{"childCategoryName":"Graphic Cards","childCategoryUrl":"//www.daraz.com.bd/computer-graphic-cards/"},{"childCategoryName":"Desktop Casings","childCategoryUrl":"//www.daraz.com.bd/casing/"},{"childCategoryName":"Motherboards","childCategoryUrl":"//www.daraz.com.bd/motherboard/"},{"childCategoryName":"Fans & Heatsinks","childCategoryUrl":"//www.daraz.com.bd/fans-heatsinks/"},{"childCategoryName":"RAM","childCategoryUrl":"//www.daraz.com.bd/ram/"},{"childCategoryName":"Processors","childCategoryUrl":"//www.daraz.com.bd/processor/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_10">
+                  <a href="//www.daraz.com.bd/networking/">
+                   <span>
+                    Network Components
+                   </span>
+                  </a>
+                  <script class="J_data_1_9" type="text">
+                   [{"childCategoryName":"Access Points","childCategoryUrl":"//www.daraz.com.bd/access-points/"},{"childCategoryName":"Modems","childCategoryUrl":"//www.daraz.com.bd/modems/"},{"childCategoryName":"Network Interface Cards","childCategoryUrl":"//www.daraz.com.bd/network-interface-cards/"},{"childCategoryName":"Network Switches","childCategoryUrl":"//www.daraz.com.bd/switch/"},{"childCategoryName":"Routers","childCategoryUrl":"//www.daraz.com.bd/routers/"},{"childCategoryName":"Wireless USB Adapters","childCategoryUrl":"//www.daraz.com.bd/wireless-usb-adapters/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_2_11">
+                  <a href="//www.daraz.com.bd/software/">
+                   <span>
+                    Software
+                   </span>
+                  </a>
+                  <script class="J_data_1_10" type="text">
+                   [{"childCategoryName":"Educational Media","childCategoryUrl":"//www.daraz.com.bd/educational-media/"},{"childCategoryName":"Operating System","childCategoryUrl":"//www.daraz.com.bd/operating-system/"},{"childCategoryName":"PC Games","childCategoryUrl":"//www.daraz.com.bd/pc-games/"},{"childCategoryName":"Security Software","childCategoryUrl":"//www.daraz.com.bd/security-software/"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
+                  <a href="//www.daraz.com.bd/televisions/">
+                   <span>
+                    Televisions
+                   </span>
+                  </a>
+                  <script class="J_data_2_0" type="text">
+                   [{"childCategoryName":"Smart Televisions","childCategoryUrl":"//www.daraz.com.bd/smart-tvs/"},{"childCategoryName":"LED Televisions","childCategoryUrl":"//www.daraz.com.bd/led-tvs/"},{"childCategoryName":"OLED Televisions","childCategoryUrl":"//www.daraz.com.bd/oled-tvs/"},{"childCategoryName":"Other Televisions","childCategoryUrl":"//www.daraz.com.bd/lcd-tvs/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
+                  <a href="//www.daraz.com.bd/audio/">
+                   <span>
+                    Home Audio
+                   </span>
+                  </a>
+                  <script class="J_data_2_1" type="text">
+                   [{"childCategoryName":"Soundbars","childCategoryUrl":"//www.daraz.com.bd/sound-bars/"},{"childCategoryName":"Home Entertainment","childCategoryUrl":"//www.daraz.com.bd/audio-home-entertainment/"},{"childCategoryName":"Portable Players","childCategoryUrl":"//www.daraz.com.bd/mp3-players-ipods/"},{"childCategoryName":"Live Sound & Stage Equipment","childCategoryUrl":"//www.daraz.com.bd/live-sound-stage/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
+                  <a href="//www.daraz.com.bd/tv-accessories/">
+                   <span>
+                    TV Accessories &amp; Video Device
+                   </span>
+                  </a>
+                  <script class="J_data_2_2" type="text">
+                   [{"childCategoryName":"TV Receivers","childCategoryUrl":"//www.daraz.com.bd/tv-receivers/"},{"childCategoryName":"Projectors","childCategoryUrl":"//www.daraz.com.bd/computing-projectors/"},{"childCategoryName":"TV Remote Controllers","childCategoryUrl":"//www.daraz.com.bd/tv-remote-controllers/"},{"childCategoryName":"Cables","childCategoryUrl":"//www.daraz.com.bd/tv-cables/"},{"childCategoryName":"Wall Mounts & Protectors","childCategoryUrl":"//www.daraz.com.bd/projectors/"},{"childCategoryName":"Blu-Ray/DVD Players","childCategoryUrl":"//www.daraz.com.bd/blu-ray-players/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
+                  <a href="//www.daraz.com.bd/cooking-appliances/">
+                   <span>
+                    Large Appliances
+                   </span>
+                  </a>
+                  <script class="J_data_2_3" type="text">
+                   [{"childCategoryName":"Refrigerators","childCategoryUrl":"//www.daraz.com.bd/refrigerators/"},{"childCategoryName":"Freezers","childCategoryUrl":"//www.daraz.com.bd/freezers/"},{"childCategoryName":"Washing Machines","childCategoryUrl":"//www.daraz.com.bd/washing-machines/"},{"childCategoryName":"Microwave Oven","childCategoryUrl":"//www.daraz.com.bd/microwaves/"},{"childCategoryName":"Electric Oven","childCategoryUrl":"//www.daraz.com.bd/large-ovens/"},{"childCategoryName":"Hoods","childCategoryUrl":"//www.daraz.com.bd/exhausts-rangehoods/"},{"childCategoryName":"Cooktop & Range","childCategoryUrl":"//www.daraz.com.bd/cooktops/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
+                  <a href="//www.daraz.com.bd/small-kitchen-appliances/">
+                   <span>
+                    Small Kitchen Appliances
+                   </span>
+                  </a>
+                  <script class="J_data_2_4" type="text">
+                   [{"childCategoryName":"Rice Cooker","childCategoryUrl":"//www.daraz.com.bd/rice-cookers/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"//www.daraz.com.bd/food-preparation/"},{"childCategoryName":"Electric Kettle","childCategoryUrl":"//www.daraz.com.bd/kettles/"},{"childCategoryName":"Juicer & Fruit Extraction","childCategoryUrl":"//www.daraz.com.bd/juicers/"},{"childCategoryName":"Fryer","childCategoryUrl":"//www.daraz.com.bd/fryers/"},{"childCategoryName":"Coffee Machine","childCategoryUrl":"//www.daraz.com.bd/espresso-machines/"},{"childCategoryName":"Pressure Cookers","childCategoryUrl":"//www.daraz.com.bd/pressure-cookers/"},{"childCategoryName":"Sandwich Makers","childCategoryUrl":"//www.daraz.com.bd/sandwich-presses-contact-grills/"},{"childCategoryName":"Specialty Cookware","childCategoryUrl":"//www.daraz.com.bd/specialty-cookware/"},{"childCategoryName":"Toasters","childCategoryUrl":" https://www.daraz.com.bd/toasters/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
+                  <a href="//www.daraz.com.bd/cooling-heating/">
+                   <span>
+                    Cooling &amp; Heating
+                   </span>
+                  </a>
+                  <script class="J_data_2_5" type="text">
+                   [{"childCategoryName":"Fan","childCategoryUrl":"//www.daraz.com.bd/fans/"},{"childCategoryName":"Air Conditioner","childCategoryUrl":"//www.daraz.com.bd/air-conditioners/"},{"childCategoryName":"Air Coolers","childCategoryUrl":"//www.daraz.com.bd/portable-ac/"},{"childCategoryName":"Air Purifiers","childCategoryUrl":"//www.daraz.com.bd/air-purifiers/"},{"childCategoryName":"Dehumidifiers","childCategoryUrl":"//www.daraz.com.bd/dehumidifiers/"},{"childCategoryName":"Water Heater","childCategoryUrl":"//www.daraz.com.bd/hot-water-systems/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
+                  <a href="//www.daraz.com.bd/floorcare-appliances/">
+                   <span>
+                    Vacuums &amp; Floor Care
+                   </span>
+                  </a>
+                  <script class="J_data_2_6" type="text">
+                   [{"childCategoryName":"Vacuum Cleaners","childCategoryUrl":"//www.daraz.com.bd/vacuum-cleaners/"},{"childCategoryName":"Steam Mops","childCategoryUrl":"//www.daraz.com.bd/steam-mops/"},{"childCategoryName":"Vacuum Cleaner Parts","childCategoryUrl":"//www.daraz.com.bd/vacuum-sealers/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
+                  <a href="//www.daraz.com.bd/garment-care/">
+                   <span>
+                    Ironing &amp; Sewing Machine
+                   </span>
+                  </a>
+                  <script class="J_data_2_7" type="text">
+                   [{"childCategoryName":"Irons","childCategoryUrl":"//www.daraz.com.bd/ironing-laundry-appliances/"},{"childCategoryName":"Sewing Machines","childCategoryUrl":"//www.daraz.com.bd/sewing-machines/"}]
+                  </script>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_3_9">
+                  <a href="//www.daraz.com.bd/drinking-water-appliances/">
+                   <span>
+                    Water Purifiers &amp; Filters
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
+                  <a href="//www.daraz.com.bd/bath-body/">
+                   <span>
+                    Bath &amp; Body
+                   </span>
+                  </a>
+                  <script class="J_data_3_0" type="text">
+                   [{"childCategoryName":"Body & Massage Oils","childCategoryUrl":"//www.daraz.com.bd/body-oils/"},{"childCategoryName":"Body Moisturizers","childCategoryUrl":"//www.daraz.com.bd/body-lotion-butter/"},{"childCategoryName":"Body Scrubs","childCategoryUrl":"//www.daraz.com.bd/body-wash-scrubs/"},{"childCategoryName":"Body Soaps & Shower Gels","childCategoryUrl":"//www.daraz.com.bd/soaps-wash/"},{"childCategoryName":"Foot Care","childCategoryUrl":"//www.daraz.com.bd/foot-care/"},{"childCategoryName":"Hair Removal","childCategoryUrl":"//www.daraz.com.bd/hair-removal-tools/"},{"childCategoryName":"Hand Care","childCategoryUrl":"//www.daraz.com.bd/hand-care/"},{"childCategoryName":"Sun Care for Body","childCategoryUrl":"//www.daraz.com.bd/sun-protection/"},{"childCategoryName":"Bath & Body Accessories","childCategoryUrl":"//www.daraz.com.bd/bath-body-accessories/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
+                  <a href="//www.daraz.com.bd/health-beauty-tools/">
+                   <span>
+                    Beauty Tools
+                   </span>
+                  </a>
+                  <script class="J_data_3_1" type="text">
+                   [{"childCategoryName":"Curling Irons & Wands","childCategoryUrl":"//www.daraz.com.bd/hair-curlers/"},{"childCategoryName":"Flat Irons","childCategoryUrl":"//www.daraz.com.bd/hair-straighteners/"},{"childCategoryName":"Multi-stylers","childCategoryUrl":"//www.daraz.com.bd/styling-hair-stylers/"},{"childCategoryName":"Hair Dryers","childCategoryUrl":"//www.daraz.com.bd/hair-dryers/"},{"childCategoryName":"Face Skin Care Tools","childCategoryUrl":"//www.daraz.com.bd/hb-face/"},{"childCategoryName":"Foot Relief Tools","childCategoryUrl":"//www.daraz.com.bd/foot-relief/"},{"childCategoryName":"Hair Removal Accessories","childCategoryUrl":"//www.daraz.com.bd/hb-hair-removal-accessories/"},{"childCategoryName":"Slimming & Electric Massagers","childCategoryUrl":"//www.daraz.com.bd/massage-relaxation/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
+                  <a href="//www.daraz.com.bd/fragrances/">
+                   <span>
+                    Fragrances
+                   </span>
+                  </a>
+                  <script class="J_data_3_2" type="text">
+                   [{"childCategoryName":"Women Fragrances","childCategoryUrl":"//www.daraz.com.bd/womens-fragrance/"},{"childCategoryName":"Men Fragrances","childCategoryUrl":"//www.daraz.com.bd/mens-fragrance/"},{"childCategoryName":"Unisex Fragrances","childCategoryUrl":"//www.daraz.com.bd/unisex-fragrance/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
+                  <a href="//www.daraz.com.bd/hair-care-beauty/">
+                   <span>
+                    Hair Care
+                   </span>
+                  </a>
+                  <script class="J_data_3_3" type="text">
+                   [{"childCategoryName":"Shampoo","childCategoryUrl":"//www.daraz.com.bd/hair-shampoo/"},{"childCategoryName":"Hair Treatments","childCategoryUrl":"//www.daraz.com.bd/treatments/"},{"childCategoryName":"Hair Care Accessories","childCategoryUrl":"//www.daraz.com.bd/hair-care-accessories/"},{"childCategoryName":"Hair Brushes & Combs","childCategoryUrl":"//www.daraz.com.bd/shop-hair-brushes/"},{"childCategoryName":"Hair Coloring","childCategoryUrl":"//www.daraz.com.bd/hair-color/"},{"childCategoryName":"Hair Conditioner","childCategoryUrl":"//www.daraz.com.bd/hair-conditioner/"},{"childCategoryName":"Wig & Hair Extensions & Pads","childCategoryUrl":"//www.daraz.com.bd/womens-hair-extensions/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
+                  <a href="//www.daraz.com.bd/womens-make-up/">
+                   <span>
+                    Makeup
+                   </span>
+                  </a>
+                  <script class="J_data_3_4" type="text">
+                   [{"childCategoryName":"Face","childCategoryUrl":"//www.daraz.com.bd/face-makeup/"},{"childCategoryName":"Lips","childCategoryUrl":"//www.daraz.com.bd/lips/"},{"childCategoryName":"Eyes","childCategoryUrl":"//www.daraz.com.bd/eye-makeup/"},{"childCategoryName":"Nails","childCategoryUrl":"//www.daraz.com.bd/nails-makeup/"},{"childCategoryName":"Palettes & Sets","childCategoryUrl":"//www.daraz.com.bd/makeup-kits-palettes/"},{"childCategoryName":"Brushes & Sets","childCategoryUrl":"//www.daraz.com.bd/tools-brushes/"},{"childCategoryName":"Makeup Accessories","childCategoryUrl":"//www.daraz.com.bd/makeup-accessories/"},{"childCategoryName":"Makeup Removers","childCategoryUrl":"//www.daraz.com.bd/womens-make-up-remover/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
+                  <a href="//www.daraz.com.bd/mens-grooming/">
+                   <span>
+                    Men's Care
+                   </span>
+                  </a>
+                  <script class="J_data_3_5" type="text">
+                   [{"childCategoryName":"Deodorants","childCategoryUrl":"//www.daraz.com.bd/men-deodorant/"},{"childCategoryName":"Hair Care","childCategoryUrl":"//www.daraz.com.bd/men-hair-care/"},{"childCategoryName":"Hair Dryers","childCategoryUrl":"//www.daraz.com.bd/hair-dryers/"},{"childCategoryName":"Shaving & Grooming","childCategoryUrl":"//www.daraz.com.bd/mens-shaving-grooming/"},{"childCategoryName":"Skin Care","childCategoryUrl":"//www.daraz.com.bd/skin-care/"},{"childCategoryName":"Sports Nutrition","childCategoryUrl":"//www.daraz.com.bd/sports-nutrition/"},{"childCategoryName":"Sexual Health Vitamins","childCategoryUrl":"//www.daraz.com.bd/sexual-health/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
+                  <a href="//www.daraz.com.bd/personal-care/">
+                   <span>
+                    Personal Care
+                   </span>
+                  </a>
+                  <script class="J_data_3_6" type="text">
+                   [{"childCategoryName":"Deodorants","childCategoryUrl":"//www.daraz.com.bd/deodorants/"},{"childCategoryName":"Feminine Care","childCategoryUrl":"//www.daraz.com.bd/feminine-care/"},{"childCategoryName":"Oral Care","childCategoryUrl":"//www.daraz.com.bd/oral-care-products/"},{"childCategoryName":"Personal Safety & Security","childCategoryUrl":"//www.daraz.com.bd/personal-safety-security/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
+                  <a href="//www.daraz.com.bd/skincare-beauty/">
+                   <span>
+                    Skin Care
+                   </span>
+                  </a>
+                  <script class="J_data_3_7" type="text">
+                   [{"childCategoryName":"Moisturizers & Creams","childCategoryUrl":"//www.daraz.com.bd/moisturizers-creams/"},{"childCategoryName":"Serum & Essence","childCategoryUrl":"//www.daraz.com.bd/serums-creams/"},{"childCategoryName":"Face Mask & Packs","childCategoryUrl":"//www.daraz.com.bd/face-mask-packs/"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"//www.daraz.com.bd/mens-face/"},{"childCategoryName":"Facial Cleansers","childCategoryUrl":"//www.daraz.com.bd/face-wash/"},{"childCategoryName":"Lip Balm & Treatments","childCategoryUrl":"//www.daraz.com.bd/lip-balms-treatments/"},{"childCategoryName":"Toner & Mists","childCategoryUrl":"//www.daraz.com.bd/toner-and-mists/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_9">
+                  <a href="//www.daraz.com.bd/health-supplements/">
+                   <span>
+                    Food Supplements
+                   </span>
+                  </a>
+                  <script class="J_data_3_8" type="text">
+                   [{"childCategoryName":"Beauty Supplements","childCategoryUrl":"//www.daraz.com.bd/beauty-supplements/"},{"childCategoryName":"Multivitamins","childCategoryUrl":"//www.daraz.com.bd/multivitamin-supplements/"},{"childCategoryName":"Sports Nutrition","childCategoryUrl":"//www.daraz.com.bd/sports-nutrition/"},{"childCategoryName":"Well Being","childCategoryUrl":"//www.daraz.com.bd/well-being/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_4_10">
+                  <a href="//www.daraz.com.bd/health-care/">
+                   <span>
+                    Medical Supplies
+                   </span>
+                  </a>
+                  <script class="J_data_3_9" type="text">
+                   [{"childCategoryName":"First Aid Supplies","childCategoryUrl":"//www.daraz.com.bd/first-aid-supplies/"},{"childCategoryName":"Health Accessories","childCategoryUrl":"//www.daraz.com.bd/health-aid-supplies/"},{"childCategoryName":"Health Monitors & Tests","childCategoryUrl":"//www.daraz.com.bd/health-monitors-tests/"},{"childCategoryName":"Injury Support & Braces","childCategoryUrl":"//www.daraz.com.bd/injury-support-braces/"},{"childCategoryName":"Medical Tests","childCategoryUrl":"//www.daraz.com.bd/medical-tests/"},{"childCategoryName":"Nebulizers & Aspirators","childCategoryUrl":"//www.daraz.com.bd/nebulizers/"},{"childCategoryName":"Ointments & Creams","childCategoryUrl":"//www.daraz.com.bd/ointments-creams/"},{"childCategoryName":"Scales & Body Fat Analyzers","childCategoryUrl":"//www.daraz.com.bd/scale-body-fat-analyzers/"},{"childCategoryName":"Wheelchairs","childCategoryUrl":"//www.daraz.com.bd/wheelchairs/"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
+                 <li class="sub-item-remove-arrow" data-cate="cate_5_1">
+                  <a href="//www.daraz.com.bd/mother-baby/">
+                   <span>
+                    Mother &amp; Baby
+                   </span>
+                  </a>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
+                  <a href="//www.daraz.com.bd/feeding/">
+                   <span>
+                    Feeding
+                   </span>
+                  </a>
+                  <script class="J_data_4_1" type="text">
+                   [{"childCategoryName":"Baby & Toddler Foods","childCategoryUrl":"//www.daraz.com.bd/baby-n-toddler-food/"},{"childCategoryName":"Milk Formula","childCategoryUrl":"//www.daraz.com.bd/formula-milk/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
+                  <a href="//www.daraz.com.bd/baby-toddler-diapers-potties/">
+                   <span>
+                    Diapering &amp; Potty
+                   </span>
+                  </a>
+                  <script class="J_data_4_2" type="text">
+                   [{"childCategoryName":"Cloth Diapers & Accessories","childCategoryUrl":"//www.daraz.com.bd/cloth-diapers-and-accessories/"},{"childCategoryName":"Diaper Bags","childCategoryUrl":"//www.daraz.com.bd/diaper-bags/"},{"childCategoryName":"Wipes & Holders","childCategoryUrl":"//www.daraz.com.bd/wipes-holders/"},{"childCategoryName":"Disposable Diapers","childCategoryUrl":"//www.daraz.com.bd/baby-diapers/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
+                  <a href="//www.daraz.com.bd/baby-gear/">
+                   <span>
+                    Baby Gear
+                   </span>
+                  </a>
+                  <script class="J_data_4_3" type="text">
+                   [{"childCategoryName":"Baby Walkers","childCategoryUrl":"//www.daraz.com.bd/baby-toddler-walkers/"},{"childCategoryName":"Backpacks & Carriers","childCategoryUrl":"//www.daraz.com.bd/baby-toddler-carriers/"},{"childCategoryName":"Strollers","childCategoryUrl":"//www.daraz.com.bd/baby-toddler-strollers/"},{"childCategoryName":"Swings, Jumpers & Bouncers","childCategoryUrl":"//www.daraz.com.bd/baby-walkers/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
+                  <a href="//www.daraz.com.bd/baby-personal-care/">
+                   <span>
+                    Baby Personal Care
+                   </span>
+                  </a>
+                  <script class="J_data_4_4" type="text">
+                   [{"childCategoryName":"Baby Bath","childCategoryUrl":"//www.daraz.com.bd/baby-bubble-bath/"},{"childCategoryName":"Bathing Tubs & Seats","childCategoryUrl":"//www.daraz.com.bd/bath-tubs-seats/"},{"childCategoryName":"Shampoo & Conditioners","childCategoryUrl":"//www.daraz.com.bd/baby-shampoo-conditioners/"},{"childCategoryName":"Soaps, Cleansers & Bodywash","childCategoryUrl":"//www.daraz.com.bd/baby-soaps-cleaners/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
+                  <a href="//www.daraz.com.bd/baby-clothings-accessories/">
+                   <span>
+                    Clothing &amp; Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_4_5" type="text">
+                   [{"childCategoryName":"Girls Clothing","childCategoryUrl":"//www.daraz.com.bd/baby-girls-clothing/"},{"childCategoryName":"Girls Shoes","childCategoryUrl":"//www.daraz.com.bd/baby-girls-shoes/"},{"childCategoryName":"Boys Clothing","childCategoryUrl":"//www.daraz.com.bd/baby-boys-clothing/"},{"childCategoryName":"Maternity Wear","childCategoryUrl":"//www.daraz.com.bd/maternity-care-wear/"},{"childCategoryName":"New Born Unisex (0 - 6 months)","childCategoryUrl":"//www.daraz.com.bd/new-born-baby-clothing/"},{"childCategoryName":"New Born Body Suits","childCategoryUrl":"//www.daraz.com.bd/bodysuits-one-pieces/"},{"childCategoryName":"New Born Sets & Packs","childCategoryUrl":"//www.daraz.com.bd/sets-packs/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
+                  <a href="//www.daraz.com.bd/baby-toddler-nursery/">
+                   <span>
+                    Nursery
+                   </span>
+                  </a>
+                  <script class="J_data_4_6" type="text">
+                   [{"childCategoryName":"Bathroom Safety","childCategoryUrl":"//www.daraz.com.bd/baby-bathroom-safety/"},{"childCategoryName":"Mattresses & Bedding","childCategoryUrl":"//www.daraz.com.bd/mattresses-bedding/"},{"childCategoryName":"Sanitizers","childCategoryUrl":"//www.daraz.com.bd/kids-sanitizers/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
+                  <a href="//www.daraz.com.bd/toys-games/">
+                   <span>
+                    Toys &amp; Games
+                   </span>
+                  </a>
+                  <script class="J_data_4_7" type="text">
+                   [{"childCategoryName":"Action Figures & Collectibles","childCategoryUrl":"//www.daraz.com.bd/toys-action-figures-collectibles"},{"childCategoryName":"Arts & Crafts for Kids","childCategoryUrl":"//www.daraz.com.bd/toys-arts-craft"},{"childCategoryName":"Ball Prit & Accessories","childCategoryUrl":"//www.daraz.com.bd/ball-pits-and-accessories"},{"childCategoryName":"Block & Building Toys","childCategoryUrl":"//www.daraz.com.bd/blocks-building-toys-games"},{"childCategoryName":"Doll & Accessories","childCategoryUrl":"//www.daraz.com.bd/dolls-accessories"},{"childCategoryName":"Dress Up & Pretend Play","childCategoryUrl":"//www.daraz.com.bd/kids-dress-up"},{"childCategoryName":"Electronic toys","childCategoryUrl":"//www.daraz.com.bd/electronic-toys"},{"childCategoryName":"Learning & Education","childCategoryUrl":"//www.daraz.com.bd/educational-toys-games"},{"childCategoryName":"Party Supplies","childCategoryUrl":"//www.daraz.com.bd/party-supplies"},{"childCategoryName":"Puzzle","childCategoryUrl":"//www.daraz.com.bd/toys-puzzles"},{"childCategoryName":"Slime & Squishy Toys","childCategoryUrl":"//www.daraz.com.bd/slime-squishy-toys"},{"childCategoryName":"Stuffed Toys","childCategoryUrl":"//www.daraz.com.bd/stuffed-animals-plush/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
+                  <a href="//www.daraz.com.bd/baby-toddler-toys-games/">
+                   <span>
+                    Baby &amp; Toddler Toys
+                   </span>
+                  </a>
+                  <script class="J_data_4_8" type="text">
+                   [{"childCategoryName":"Activity Gym & Playmats","childCategoryUrl":"//www.daraz.com.bd/activity-play-centers"},{"childCategoryName":"Ball","childCategoryUrl":"//www.daraz.com.bd/baby-toddler-toys"},{"childCategoryName":"Bath Toys","childCategoryUrl":"//www.daraz.com.bd/bath-toys"},{"childCategoryName":"Crib Toys & Attachments","childCategoryUrl":"//www.daraz.com.bd/baby-crib-toys"},{"childCategoryName":"Early Learning","childCategoryUrl":"//www.daraz.com.bd/kids-learning-education"},{"childCategoryName":"Indoor Climbers & Structures","childCategoryUrl":"//www.daraz.com.bd/indoor-climbers-play-structures"},{"childCategoryName":"Push & Pull Toys","childCategoryUrl":"//www.daraz.com.bd/push-pull-toys"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"//www.daraz.com.bd/car-seat-stroller-toys"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_10">
+                  <a href="//www.daraz.com.bd/remote-control-toys-and-play-vehicles/">
+                   <span>
+                    Remote Control &amp; Vehicles
+                   </span>
+                  </a>
+                  <script class="J_data_4_9" type="text">
+                   [{"childCategoryName":"Die-Cast Vehicles","childCategoryUrl":"//www.daraz.com.bd/die-cast-cars"},{"childCategoryName":"RC Vehicles & Batteries","childCategoryUrl":"//www.daraz.com.bd/vehicles-batteries"},{"childCategoryName":"Play Trains & Railway Sets","childCategoryUrl":"//www.daraz.com.bd/model-railway-and-train-sets/"},{"childCategoryName":"Play Vehicles","childCategoryUrl":"//www.daraz.com.bd/play-vehicles-toys/"},{"childCategoryName":"Drones & Accessories","childCategoryUrl":"//www.daraz.com.bd/drones-and-accessories/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_11">
+                  <a href="//www.daraz.com.bd/sports-and-outdoor-play/">
+                   <span>
+                    Sports &amp; Outdoor Play
+                   </span>
+                  </a>
+                  <script class="J_data_4_10" type="text">
+                   [{"childCategoryName":"Fidget Spinners & Cubes","childCategoryUrl":"//www.daraz.com.bd/fidget-spinners"},{"childCategoryName":"Kids Bikes & Accessories","childCategoryUrl":"//www.daraz.com.bd/outdoor-toys"},{"childCategoryName":"Swimming Pool & Water Toys","childCategoryUrl":"//www.daraz.com.bd/swimming-pool-and-water-toys/"},{"childCategoryName":"Outdoor Toys","childCategoryUrl":"//www.daraz.com.bd/sports-outdoor-toys/"},{"childCategoryName":"Play Tents & Tunnels","childCategoryUrl":"//www.daraz.com.bd/play-tents-tunnels"},{"childCategoryName":"Boxing","childCategoryUrl":"//www.daraz.com.bd/kids-boxing"},{"childCategoryName":"Play Sets & Playground Equipment","childCategoryUrl":"//www.daraz.com.bd/play-sets-and-playground-equipment"},{"childCategoryName":"Sports Play","childCategoryUrl":"//www.daraz.com.bd/kids-sports-play-equipment"},{"childCategoryName":"Kids Tricycles","childCategoryUrl":"//www.daraz.com.bd/tricycles-bicycles"},{"childCategoryName":"Toys Sports","childCategoryUrl":"//www.daraz.com.bd/sports-toys"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_5_12">
+                  <a href="//www.daraz.com.bd/traditional-games/">
+                   <span>
+                    Traditional Games
+                   </span>
+                  </a>
+                  <script class="J_data_4_11" type="text">
+                   [{"childCategoryName":"Board Games","childCategoryUrl":"//www.daraz.com.bd/board-games"},{"childCategoryName":"Card Games","childCategoryUrl":"//www.daraz.com.bd/card-games"},{"childCategoryName":"Game Room Games","childCategoryUrl":"//www.daraz.com.bd/game-room-games"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
+                  <a href="//www.daraz.com.bd/beverages/">
+                   <span>
+                    Beverages
+                   </span>
+                  </a>
+                  <script class="J_data_5_0" type="text">
+                   [{"childCategoryName":"Coffee","childCategoryUrl":"//www.daraz.com.bd/coffee-espresso/"},{"childCategoryName":"Hot Chocolate Drinks","childCategoryUrl":"//www.daraz.com.bd/powdered-drink-mixes/"},{"childCategoryName":"Powdered Drink Mixes","childCategoryUrl":"//www.daraz.com.bd/milk-powder-and-milk-modifiers/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
+                  <a href="//www.daraz.com.bd/breakfast/">
+                   <span>
+                    Breakfast, Choco &amp; Snacks
+                   </span>
+                  </a>
+                  <script class="J_data_5_1" type="text">
+                   [{"childCategoryName":"Biscuit","childCategoryUrl":"//www.daraz.com.bd/biscuits-cookies/"},{"childCategoryName":"Breakfast Cereals","childCategoryUrl":"//www.daraz.com.bd/cereal/"},{"childCategoryName":"Chocolate","childCategoryUrl":"//www.daraz.com.bd/chocolates/"},{"childCategoryName":"Oatmeals","childCategoryUrl":"//www.daraz.com.bd/oats-porridge/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
+                  <a href="//www.daraz.com.bd/baking-and-cooking/">
+                   <span>
+                    Food Staples
+                   </span>
+                  </a>
+                  <script class="J_data_5_2" type="text">
+                   [{"childCategoryName":"Canned Food","childCategoryUrl":"//www.daraz.com.bd/groceries-canned-dry-packaged-food-canned-food/"},{"childCategoryName":"Condiment Dressing","childCategoryUrl":"//www.daraz.com.bd/condiment-dressing/"},{"childCategoryName":"Grains, Beans & Pulses","childCategoryUrl":"//www.daraz.com.bd/groceries-canned-dry-packaged-food-grains-beans-pulses/"},{"childCategoryName":"Home Baking & Sugar","childCategoryUrl":"//www.daraz.com.bd/groceries-baking-cooking-home-baking-sugar/"},{"childCategoryName":"Instant & Ready-to-Eat","childCategoryUrl":"//www.daraz.com.bd/groceries-canned-dry-packaged-food-instant-ready-to-eat/"},{"childCategoryName":"Jarred Food","childCategoryUrl":"//www.daraz.com.bd/groceries-canned-dry-packaged-food-jarred-food/"},{"childCategoryName":"Noodles","childCategoryUrl":"//www.daraz.com.bd/noodles/"},{"childCategoryName":"Rice","childCategoryUrl":"//www.daraz.com.bd/rice/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
+                  <a href="//www.daraz.com.bd/groceries-baking-cooking-cooking-ingredients/">
+                   <span>
+                    Cooking Ingredients
+                   </span>
+                  </a>
+                  <script class="J_data_5_3" type="text">
+                   [{"childCategoryName":"Oil","childCategoryUrl":"//www.daraz.com.bd/oil-ghee/"},{"childCategoryName":"Herbs & Spices","childCategoryUrl":"//www.daraz.com.bd/whole-spices-seeds-herbs/"},{"childCategoryName":"Sauce","childCategoryUrl":"//www.daraz.com.bd/groceries-baking-cooking-cooking-ingredients-sauce/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
+                  <a href="//www.daraz.com.bd/laundry-and-home-care/">
+                   <span>
+                    Laundry &amp; Household
+                   </span>
+                  </a>
+                  <script class="J_data_5_4" type="text">
+                   [{"childCategoryName":"AirCare","childCategoryUrl":"//www.daraz.com.bd/groceries-laundry-household-aircare/"},{"childCategoryName":"Cleaning","childCategoryUrl":"//www.daraz.com.bd/household-cleaners/"},{"childCategoryName":"Dishwashing","childCategoryUrl":"//www.daraz.com.bd/groceries-laundry-household-dishwashing/"},{"childCategoryName":"Laundry","childCategoryUrl":"//www.daraz.com.bd/laundry-products/"},{"childCategoryName":"Pest Control","childCategoryUrl":"//www.daraz.com.bd/groceries-laundry-household-pest-control/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
+                  <a href="//www.daraz.com.bd/cats-supplies/">
+                   <span>
+                    Cat
+                   </span>
+                  </a>
+                  <script class="J_data_5_5" type="text">
+                   [{"childCategoryName":"Cat Food","childCategoryUrl":"//www.daraz.com.bd/cat-food/"},{"childCategoryName":"Grooming","childCategoryUrl":"//www.daraz.com.bd/cat-grooming-supplies/"},{"childCategoryName":"Toys & Accessories","childCategoryUrl":"//www.daraz.com.bd/cats-toys/"},{"childCategoryName":"Litter & Toilet","childCategoryUrl":"//www.daraz.com.bd/cat-clean-up-toilets/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
+                  <a href="//www.daraz.com.bd/dogs-supplies/">
+                   <span>
+                    Dog
+                   </span>
+                  </a>
+                  <script class="J_data_5_6" type="text">
+                   [{"childCategoryName":"Dog Treats","childCategoryUrl":"//www.daraz.com.bd/dog-treats/"},{"childCategoryName":"Dog Grooming","childCategoryUrl":"//www.daraz.com.bd/dog-grooming-supplies/"},{"childCategoryName":"Toys & Accessories","childCategoryUrl":"//www.daraz.com.bd/toys/"},{"childCategoryName":"Carriers & Travel","childCategoryUrl":"//www.daraz.com.bd/dog-carriers-travel/"},{"childCategoryName":"Leashes, Collars & Muzzles","childCategoryUrl":"//www.daraz.com.bd/dog-leashes-collars-muzzles/"},{"childCategoryName":"Dog Food","childCategoryUrl":"//www.daraz.com.bd/dog-food/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
+                  <a href="//www.daraz.com.bd/fish/">
+                   <span>
+                    Fish
+                   </span>
+                  </a>
+                  <script class="J_data_5_7" type="text">
+                   [{"childCategoryName":"Aquariums & Accessories","childCategoryUrl":"//www.daraz.com.bd/aquariums/"},{"childCategoryName":"Fish Food","childCategoryUrl":"//www.daraz.com.bd/fish-food/"},{"childCategoryName":"Starter Kits","childCategoryUrl":"//www.daraz.com.bd/aquariums-starter-kits/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
+                  <a href="//www.daraz.com.bd/bird/">
+                   <span>
+                    Bird
+                   </span>
+                  </a>
+                  <script class="J_data_5_8" type="text">
+                   [{"childCategoryName":"Bird Food","childCategoryUrl":"//www.daraz.com.bd/bird-food/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
+                  <a href="//www.daraz.com.bd/small-pet/">
+                   <span>
+                    Small Pet
+                   </span>
+                  </a>
+                  <script class="J_data_5_9" type="text">
+                   [{"childCategoryName":"Food & Accessories","childCategoryUrl":"//www.daraz.com.bd/birds-fish-n-small-animals/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
+                  <a href="//www.daraz.com.bd/gr-cigars-&amp;-cigarettes/">
+                   <span>
+                    Lifestyle Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_5_10" type="text">
+                   [{"childCategoryName":"Vape","childCategoryUrl":"//www.daraz.com.bd/gr-cigarettes/"},{"childCategoryName":"Lighters ","childCategoryUrl":"//www.daraz.com.bd/gr-lighters/"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
+                  <a href="//www.daraz.com.bd/bath-bedding/">
+                   <span>
+                    Bath
+                   </span>
+                  </a>
+                  <script class="J_data_6_0" type="text">
+                   [{"childCategoryName":"Bathroom Scales","childCategoryUrl":"//www.daraz.com.bd/bathroom-scales/"},{"childCategoryName":"Shower Caddies & Hangers","childCategoryUrl":"//www.daraz.com.bd/shower-holders-hangers/"},{"childCategoryName":"Shower Curtains","childCategoryUrl":"//www.daraz.com.bd/shower-curtains/"},{"childCategoryName":"Towel Rails & Warmers","childCategoryUrl":"//www.daraz.com.bd/bathroom-towel-racks-warmers/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
+                  <a href="//www.daraz.com.bd/bedding/">
+                   <span>
+                    Bedding
+                   </span>
+                  </a>
+                  <script class="J_data_6_1" type="text">
+                   [{"childCategoryName":"Blankets & Throws","childCategoryUrl":"//www.daraz.com.bd/blankets-throws/"},{"childCategoryName":"Comforters, Quilts & Duvets","childCategoryUrl":"//www.daraz.com.bd/comforters-quilts/"},{"childCategoryName":"Mattress Pads","childCategoryUrl":"//www.daraz.com.bd/mattress-pads/"},{"childCategoryName":"Mattress Protectors","childCategoryUrl":"//www.daraz.com.bd/bedding-mattress-pads-protectors/"},{"childCategoryName":"Pillows & Bolsters","childCategoryUrl":"//www.daraz.com.bd/anti-allergy-pillows/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
+                  <a href="//www.daraz.com.bd/home-decoration/">
+                   <span>
+                    Decor
+                   </span>
+                  </a>
+                  <script class="J_data_6_2" type="text">
+                   [{"childCategoryName":"Artificial Flowers & Plants","childCategoryUrl":"//www.daraz.com.bd/artificial-flowers-plants/"},{"childCategoryName":"Candles & Candleholders","childCategoryUrl":"//www.daraz.com.bd/candles-candle-holders/"},{"childCategoryName":"Clocks","childCategoryUrl":"//www.daraz.com.bd/clocks/"},{"childCategoryName":"Curtains","childCategoryUrl":"//www.daraz.com.bd/curtains-blinds-shades/"},{"childCategoryName":"Cushions & Covers","childCategoryUrl":"//www.daraz.com.bd/cushions/"},{"childCategoryName":"Picture Frames","childCategoryUrl":"//www.daraz.com.bd/picture-frames/"},{"childCategoryName":"Rugs & Carpets","childCategoryUrl":"//www.daraz.com.bd/carpets-rugs/"},{"childCategoryName":"Vases & Vessels","childCategoryUrl":"//www.daraz.com.bd/vases/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
+                  <a href="//www.daraz.com.bd/furniture/">
+                   <span>
+                    Furniture
+                   </span>
+                  </a>
+                  <script class="J_data_6_3" type="text">
+                   [{"childCategoryName":"Bedroom","childCategoryUrl":"//www.daraz.com.bd/bedroom-furniture/"},{"childCategoryName":"Living Room","childCategoryUrl":"//www.daraz.com.bd/living-room-furniture/"},{"childCategoryName":"Home Office","childCategoryUrl":"//www.daraz.com.bd/office-furniture/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
+                  <a href="//www.daraz.com.bd/kitchen-dining/">
+                   <span>
+                    Kitchen &amp; Dining
+                   </span>
+                  </a>
+                  <script class="J_data_6_4" type="text">
+                   [{"childCategoryName":"Storage & Organisation","childCategoryUrl":"//www.daraz.com.bd/storage-organisation/"},{"childCategoryName":"Coffee & Tea","childCategoryUrl":"//www.daraz.com.bd/coffee-tea-kitchenware/"},{"childCategoryName":"Cookware","childCategoryUrl":"//www.daraz.com.bd/cookware/"},{"childCategoryName":"Dinnerware","childCategoryUrl":"//www.daraz.com.bd/dinnerware/"},{"childCategoryName":"Kitchen & Table Linen","childCategoryUrl":"//www.daraz.com.bd/kitchen-table-linens-accessories/"},{"childCategoryName":"Kitchen Storage & Accessories","childCategoryUrl":"//www.daraz.com.bd/kitchen-organizer-storage/"},{"childCategoryName":"Kitchen Utensils","childCategoryUrl":"//www.daraz.com.bd/kitchen-tools-accessories/"},{"childCategoryName":"Serveware","childCategoryUrl":"//www.daraz.com.bd/serveware/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
+                  <a href="//www.daraz.com.bd/lighting/">
+                   <span>
+                    Lighting
+                   </span>
+                  </a>
+                  <script class="J_data_6_5" type="text">
+                   [{"childCategoryName":"Ceiling Lights","childCategoryUrl":"//www.daraz.com.bd/ceiling-lights/"},{"childCategoryName":"Floor Lamps","childCategoryUrl":"//www.daraz.com.bd/floor-lamps/"},{"childCategoryName":"Lamp Shades","childCategoryUrl":"//www.daraz.com.bd/bedside-lamps/"},{"childCategoryName":"Light Bulbs","childCategoryUrl":"//www.daraz.com.bd/lighting-bulbs/"},{"childCategoryName":"Lighting Fixtures & Components","childCategoryUrl":"//www.daraz.com.bd/lighting-components/"},{"childCategoryName":"Outdoor Lighting","childCategoryUrl":"//www.daraz.com.bd/outdoor-lighting/"},{"childCategoryName":"Rechargeables & Flashlights","childCategoryUrl":"//www.daraz.com.bd/rechargeable-lights/"},{"childCategoryName":"Specialty Lighting","childCategoryUrl":"//www.daraz.com.bd/specialty-lighting/"},{"childCategoryName":"Table Lamps","childCategoryUrl":"//www.daraz.com.bd/table-lamps/"},{"childCategoryName":"Wall Lights & Sconces","childCategoryUrl":"//www.daraz.com.bd/wall-lights/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
+                  <a href="//www.daraz.com.bd/laundry-cleaning/">
+                   <span>
+                    Laundry &amp; Cleaning
+                   </span>
+                  </a>
+                  <script class="J_data_6_6" type="text">
+                   [{"childCategoryName":"Brushes, Sponges & Wipers","childCategoryUrl":"//www.daraz.com.bd/household-supplies/"},{"childCategoryName":"Brooms, Mops & Sweepers","childCategoryUrl":"//www.daraz.com.bd/mops-refills-mop-sets/"},{"childCategoryName":"Laundry Baskets & Hampers","childCategoryUrl":"//www.daraz.com.bd/bathroom-baskets-trays/"},{"childCategoryName":"Clothes Line & Drying Racks","childCategoryUrl":"//www.daraz.com.bd/pegs-clothes-lines/"},{"childCategoryName":"Ironing Boards","childCategoryUrl":"//www.daraz.com.bd/ironing-boards-covers/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
+                  <a href="//www.daraz.com.bd/home-improvement/">
+                   <span>
+                    Tools, DIY &amp; Outdoor
+                   </span>
+                  </a>
+                  <script class="J_data_6_7" type="text">
+                   [{"childCategoryName":"Outdoor","childCategoryUrl":"//www.daraz.com.bd/outdoor-furniture/"},{"childCategoryName":"Fixtures & Plumbing","childCategoryUrl":"//www.daraz.com.bd/plumbing/"},{"childCategoryName":"Electrical","childCategoryUrl":"//www.daraz.com.bd/electrical-equipment/"},{"childCategoryName":"Hand Tools","childCategoryUrl":"//www.daraz.com.bd/hand-tools-repairs/"},{"childCategoryName":"Power Tools","childCategoryUrl":"//www.daraz.com.bd/power-tools/"},{"childCategoryName":"Security","childCategoryUrl":"//www.daraz.com.bd/security-system-hardware/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
+                  <a href="//www.daraz.com.bd/stationery-craft/">
+                   <span>
+                    Stationery &amp; Craft
+                   </span>
+                  </a>
+                  <script class="J_data_6_8" type="text">
+                   [{"childCategoryName":"Gifts & Wrapping","childCategoryUrl":"//www.daraz.com.bd/gifts-wrapping/"},{"childCategoryName":"Packaging & Cartons","childCategoryUrl":"//www.daraz.com.bd/packaging-products/"},{"childCategoryName":"Paper Products","childCategoryUrl":"//www.daraz.com.bd/paper-products/"},{"childCategoryName":"School & Office Equipment","childCategoryUrl":"//www.daraz.com.bd/school-supplies/"},{"childCategoryName":"Writing & Correction","childCategoryUrl":"//www.daraz.com.bd/writing-utensils/"},{"childCategoryName":"Art Supplies","childCategoryUrl":"//www.daraz.com.bd/art-supplies/"},{"childCategoryName":"Craft Supplies","childCategoryUrl":"//www.daraz.com.bd/craft-supplies/"},{"childCategoryName":"Sewing","childCategoryUrl":"//www.daraz.com.bd/craft-sewing/"},{"childCategoryName":"Religious Items","childCategoryUrl":"//www.daraz.com.bd/religious-items/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
+                  <a href="//www.daraz.com.bd/books-games-music/">
+                   <span>
+                    Media, Music &amp; Books
+                   </span>
+                  </a>
+                  <script class="J_data_6_9" type="text">
+                   [{"childCategoryName":"eBooks","childCategoryUrl":"//www.daraz.com.bd/ebooks/"},{"childCategoryName":"Musical Instruments","childCategoryUrl":"//www.daraz.com.bd/musical-instruments/"},{"childCategoryName":"Books","childCategoryUrl":"//www.daraz.com.bd/books-magazines/"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
+                 <li class="sub-item-remove-arrow" data-cate="cate_8_1">
+                  <a href="//www.daraz.com.bd/womens-traditional-clothing/">
+                   <span>
+                    Traditional Clothing
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_8_2">
+                  <a href="//www.daraz.com.bd/womens-sarees/">
+                   <span>
+                    Saree
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_8_3">
+                  <a href="//www.daraz.com.bd/womens-shalwar-kameez/">
+                   <span>
+                    Shalwar Kameez
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_8_4">
+                  <a href="//www.daraz.com.bd/womens-lawn/">
+                   <span>
+                    Unstitched Fabric
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_8_5">
+                  <a href="//www.daraz.com.bd/womens-wedding-wear/">
+                   <span>
+                    Wedding Wear
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_8_6">
+                  <a href="//www.daraz.com.bd/womens-kurtis/">
+                   <span>
+                    Kurtis
+                   </span>
+                  </a>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
+                  <a href="//www.daraz.com.bd/womens-clothing/">
+                   <span>
+                    Clothing
+                   </span>
+                  </a>
+                  <script class="J_data_7_6" type="text">
+                   [{"childCategoryName":"Women's Dresses","childCategoryUrl":"//www.daraz.com.bd/womens-dresses/"},{"childCategoryName":"Tops","childCategoryUrl":"//www.daraz.com.bd/tops/"},{"childCategoryName":"Pants","childCategoryUrl":"//www.daraz.com.bd/women-pants/"},{"childCategoryName":"Shorts","childCategoryUrl":"//www.daraz.com.bd/clothing-shorts/"},{"childCategoryName":"Skirts","childCategoryUrl":"//www.daraz.com.bd/womens-skirts/"},{"childCategoryName":"Sweaters & Cardigans","childCategoryUrl":"//www.daraz.com.bd/womens-sweaters/"},{"childCategoryName":"Jackets & Coats","childCategoryUrl":"//www.daraz.com.bd/women-jackets-coats/"},{"childCategoryName":"Girl's Fashion","childCategoryUrl":"//www.daraz.com.bd/girls/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
+                  <a href="//www.daraz.com.bd/womens-bags/">
+                   <span>
+                    Women's Bags
+                   </span>
+                  </a>
+                  <script class="J_data_7_7" type="text">
+                   [{"childCategoryName":"Cross Body & Shoulder Bags","childCategoryUrl":"//www.daraz.com.bd/cross-body-shoulder-bags/"},{"childCategoryName":"Clutches","childCategoryUrl":"//www.daraz.com.bd/womens-clutch-bags/"},{"childCategoryName":"Top-Handle Bags","childCategoryUrl":"//www.daraz.com.bd/womens-office-digital/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
+                  <a href="//www.daraz.com.bd/womens-shoes/">
+                   <span>
+                    Shoes
+                   </span>
+                  </a>
+                  <script class="J_data_7_8" type="text">
+                   [{"childCategoryName":"Flat Sandals","childCategoryUrl":"//www.daraz.com.bd/womens-strappy-sandal/"},{"childCategoryName":"Heels","childCategoryUrl":"//www.daraz.com.bd/womens-heels/"},{"childCategoryName":"Flat Shoes","childCategoryUrl":"//www.daraz.com.bd/womens-flat-shoes/"},{"childCategoryName":"Wedges ","childCategoryUrl":"//www.daraz.com.bd/womens-wedges/"},{"childCategoryName":"Flip Flops","childCategoryUrl":"//www.daraz.com.bd/womens-flip-flops/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_8_10">
+                  <a href="//www.daraz.com.bd/womens-accessories/">
+                   <span>
+                    Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_7_9" type="text">
+                   [{"childCategoryName":"Jewelleries","childCategoryUrl":"//www.daraz.com.bd/womens-jewellery/"},{"childCategoryName":"Belts","childCategoryUrl":"//www.daraz.com.bd/women-belts/"},{"childCategoryName":"Hair Accessories","childCategoryUrl":"//www.daraz.com.bd/women-hair-accessories/"},{"childCategoryName":"Scarves","childCategoryUrl":"//www.daraz.com.bd/womens-scarves-mufflers/"},{"childCategoryName":"Umbrellas","childCategoryUrl":"//www.daraz.com.bd/women-accessories-umbrellas/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_8_11">
+                  <a href="//www.daraz.com.bd/womens-lingerie-sleepwear/">
+                   <span>
+                    Lingerie, Sleep &amp; Lounge
+                   </span>
+                  </a>
+                  <script class="J_data_7_10" type="text">
+                   [{"childCategoryName":"Bras","childCategoryUrl":"//www.daraz.com.bd/womens-bras/"},{"childCategoryName":"Panties","childCategoryUrl":"//www.daraz.com.bd/womens-panties/"},{"childCategoryName":"Lingerie Sets","childCategoryUrl":"//www.daraz.com.bd/womens-lingerie/"},{"childCategoryName":"Sleep & Loungewear","childCategoryUrl":"//www.daraz.com.bd/womens-nightwear/"},{"childCategoryName":"Shapewear","childCategoryUrl":"//www.daraz.com.bd/womens-shapewear/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_8_12">
+                  <a href="//www.daraz.com.bd/travels/">
+                   <span>
+                    Travel &amp; Luggage
+                   </span>
+                  </a>
+                  <script class="J_data_7_11" type="text">
+                   [{"childCategoryName":"Laptop Cases","childCategoryUrl":"//www.daraz.com.bd/laptop-cases/"},{"childCategoryName":"Suitcases","childCategoryUrl":"//www.daraz.com.bd/wheeled-non-wheeled-suitcases/"},{"childCategoryName":"Travel Accessories","childCategoryUrl":"//www.daraz.com.bd/travel-accessories/"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
+                 <li class="sub-item-remove-arrow" data-cate="cate_9_1">
+                  <a href="//www.daraz.com.bd/mens-kurtas/">
+                   <span>
+                    Panjabi &amp; Fatua
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_9_2">
+                  <a href="//www.daraz.com.bd/mens-shirts/">
+                   <span>
+                    Shirts
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_9_3">
+                  <a href="//www.daraz.com.bd/mens-t-shirts/">
+                   <span>
+                    T-Shirts
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_9_4">
+                  <a href="//www.daraz.com.bd/mens-jeans/">
+                   <span>
+                    Jeans
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_9_5">
+                  <a href="//www.daraz.com.bd/mens-polo-shirts/">
+                   <span>
+                    Polo Shirts
+                   </span>
+                  </a>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
+                  <a href="//www.daraz.com.bd/mens-pants-trousers/">
+                   <span>
+                    Pant
+                   </span>
+                  </a>
+                  <script class="J_data_8_5" type="text">
+                   [{"childCategoryName":"Chinos","childCategoryUrl":"//www.daraz.com.bd/mens-khakis-chinos/"},{"childCategoryName":"Cargo","childCategoryUrl":"//www.daraz.com.bd/mens-lounge-pants/"},{"childCategoryName":"Joggers & Sweatpants","childCategoryUrl":"//www.daraz.com.bd/mens-sweat-pants/"},{"childCategoryName":"Shorts & Bermudas","childCategoryUrl":"//www.daraz.com.bd/shop-mens-shorts/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
+                  <a href="//www.daraz.com.bd/mens-bags/">
+                   <span>
+                    Men's Bags
+                   </span>
+                  </a>
+                  <script class="J_data_8_6" type="text">
+                   [{"childCategoryName":"Backpack","childCategoryUrl":"//www.daraz.com.bd/mens-fashion-backpacks/"},{"childCategoryName":"Business Bags","childCategoryUrl":"//www.daraz.com.bd/backpacks-and-briefcases/"},{"childCategoryName":"Messenger Bags","childCategoryUrl":"//www.daraz.com.bd/men-messenger-bags/"},{"childCategoryName":"Crossbody Bags","childCategoryUrl":"//www.daraz.com.bd/mens-formal-bags/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
+                  <a href="//www.daraz.com.bd/men-accessories/">
+                   <span>
+                    Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_8_7" type="text">
+                   [{"childCategoryName":"Belt","childCategoryUrl":"//www.daraz.com.bd/mens-belts/"},{"childCategoryName":"Wallet","childCategoryUrl":"//www.daraz.com.bd/mens-sports-wallets/"},{"childCategoryName":"Hats & Caps","childCategoryUrl":"//www.daraz.com.bd/men-accessories-hats/"},{"childCategoryName":"Ties & Bow Ties","childCategoryUrl":"//www.daraz.com.bd/mens-ties-cufflinks/"},{"childCategoryName":"Gloves","childCategoryUrl":"//www.daraz.com.bd/mens-gloves/"},{"childCategoryName":"Umbrellas","childCategoryUrl":"//www.daraz.com.bd/mens-casual-belts/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
+                  <a href="//www.daraz.com.bd/mens-shoes/">
+                   <span>
+                    Shoes
+                   </span>
+                  </a>
+                  <script class="J_data_8_8" type="text">
+                   [{"childCategoryName":"Sneakers","childCategoryUrl":"//www.daraz.com.bd/mens-sneakers/"},{"childCategoryName":"Sandals","childCategoryUrl":"//www.daraz.com.bd/mens-sandal/"},{"childCategoryName":"Formal Shoes","childCategoryUrl":"//www.daraz.com.bd/mens-formal-shoes/"},{"childCategoryName":"Boots","childCategoryUrl":"//www.daraz.com.bd/mens-boots/"},{"childCategoryName":"Flip Flops","childCategoryUrl":"//www.daraz.com.bd/mens-flip-flops/"},{"childCategoryName":"Slip-Ons & Loafers","childCategoryUrl":"//www.daraz.com.bd/mens-slip-ons/"},{"childCategoryName":"House Slippers","childCategoryUrl":"//www.daraz.com.bd/mens-slippers/"},{"childCategoryName":"Boy's Shoes","childCategoryUrl":"//www.daraz.com.bd/boys-shoes/"}]
+                  </script>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_9_10">
+                  <a href="//www.daraz.com.bd/men-clothing-suits-ties/">
+                   <span>
+                    Suits
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_9_11">
+                  <a href="//www.daraz.com.bd/clothing-men-underwear/">
+                   <span>
+                    Underwear
+                   </span>
+                  </a>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_9_12">
+                  <a href="//www.daraz.com.bd/mens-clothing/">
+                   <span>
+                    Clothing
+                   </span>
+                  </a>
+                  <script class="J_data_8_11" type="text">
+                   [{"childCategoryName":"Jackets & Coats","childCategoryUrl":"//www.daraz.com.bd/men-jackets-coats/"},{"childCategoryName":"Hoodies & Sweatshirts","childCategoryUrl":"//www.daraz.com.bd/mens-hoodies/"},{"childCategoryName":"Sweaters","childCategoryUrl":"//www.daraz.com.bd/men-sweaters-cardigans/"},{"childCategoryName":"Boy's Clothing","childCategoryUrl":"//www.daraz.com.bd/boys-clothing/"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
+                  <a href="//www.daraz.com.bd/mens-watches/">
+                   <span>
+                    Men's Watch
+                   </span>
+                  </a>
+                  <script class="J_data_9_0" type="text">
+                   [{"childCategoryName":"Casual","childCategoryUrl":"//www.daraz.com.bd/mens-digital/"},{"childCategoryName":"Business","childCategoryUrl":"//www.daraz.com.bd/mens-analog/"},{"childCategoryName":"Fashion","childCategoryUrl":"//www.daraz.com.bd/mens-chronograph/"},{"childCategoryName":"Sport","childCategoryUrl":"//www.daraz.com.bd/mens-sports-watches/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
+                  <a href="//www.daraz.com.bd/womens-watches/">
+                   <span>
+                    Women's Watch
+                   </span>
+                  </a>
+                  <script class="J_data_9_1" type="text">
+                   [{"childCategoryName":"Casual","childCategoryUrl":"//www.daraz.com.bd/womens-casual-watches-wsj/"},{"childCategoryName":"Business","childCategoryUrl":"//www.daraz.com.bd/womens-business-watches-wsj/"},{"childCategoryName":"Fashion","childCategoryUrl":"//www.daraz.com.bd/womens-fashion-watches-wsj/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
+                  <a href="//www.daraz.com.bd/shop-womens-jewellery/">
+                   <span>
+                    Women's Jewelleries
+                   </span>
+                  </a>
+                  <script class="J_data_9_2" type="text">
+                   [{"childCategoryName":"Rings","childCategoryUrl":"//www.daraz.com.bd/womens-rings/"},{"childCategoryName":"Necklaces","childCategoryUrl":"//www.daraz.com.bd/womens-necklaces-chains/"},{"childCategoryName":"Pendants","childCategoryUrl":"//www.daraz.com.bd/womens-pendants/"},{"childCategoryName":"Earrings","childCategoryUrl":"//www.daraz.com.bd/womens-earrings/"},{"childCategoryName":"Jewellery Sets","childCategoryUrl":"//www.daraz.com.bd/womens-jewellery-sets/"},{"childCategoryName":"Bracelets","childCategoryUrl":"//www.daraz.com.bd/womens-bangles-bracelets/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
+                  <a href="//www.daraz.com.bd/mens-fashion-jewellery">
+                   <span>
+                    Men's Jewelleries
+                   </span>
+                  </a>
+                  <script class="J_data_9_3" type="text">
+                   [{"childCategoryName":"Rings","childCategoryUrl":"//www.daraz.com.bd/shop-mens-rings/"},{"childCategoryName":"Necklaces & Pendants","childCategoryUrl":"//www.daraz.com.bd/mens-necklaces/"},{"childCategoryName":"Bracelets","childCategoryUrl":"//www.daraz.com.bd/shop-mens-bracelets/"}]
+                  </script>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_10_5">
+                  <a href="//www.daraz.com.bd/mens-belts/">
+                   <span>
+                    Men's Belt
+                   </span>
+                  </a>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_10_6">
+                  <a href="//www.daraz.com.bd/mens-sports-wallets/">
+                   <span>
+                    Men's Wallet
+                   </span>
+                  </a>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
+                  <a href="//www.daraz.com.bd/mens-sunglasses/">
+                   <span>
+                    Sunglasses
+                   </span>
+                  </a>
+                  <script class="J_data_9_6" type="text">
+                   [{"childCategoryName":"Men Sunglasses","childCategoryUrl":"//www.daraz.com.bd/mens-sunglasses/"},{"childCategoryName":"Women Sunglasses","childCategoryUrl":"//www.daraz.com.bd/womens-sunglasses/"},{"childCategoryName":"Kids Sunglasses","childCategoryUrl":"//www.daraz.com.bd/kids-sunglasses/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
+                  <a href="//www.daraz.com.bd/eyeglasses/">
+                   <span>
+                    Eyeglasses
+                   </span>
+                  </a>
+                  <script class="J_data_9_7" type="text">
+                   [{"childCategoryName":"Men Eyeglasses","childCategoryUrl":"//www.daraz.com.bd/mens-eyeglasses/"},{"childCategoryName":"Women Eyeglasses","childCategoryUrl":"//www.daraz.com.bd/womens-eyeglasses/"}]
+                  </script>
+                 </li>
+                 <li class="sub-item-remove-arrow" data-cate="cate_10_9">
+                  <a href="//www.daraz.com.bd/kids-watches-wsj/">
+                   <span>
+                    Kid's Watch
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
+                  <a href="//www.daraz.com.bd/mens-sports/">
+                   <span>
+                    Men Shoes &amp; Clothing
+                   </span>
+                  </a>
+                  <script class="J_data_10_0" type="text">
+                   [{"childCategoryName":"Clothing","childCategoryUrl":"//www.daraz.com.bd/men-sports-clothing/"},{"childCategoryName":"Shoes","childCategoryUrl":"//www.daraz.com.bd/mens-sports-shoes/"},{"childCategoryName":"Accessories","childCategoryUrl":"//www.daraz.com.bd/men-sports-clothing-accessories/"},{"childCategoryName":"Bags","childCategoryUrl":"//www.daraz.com.bd/mens-sports-bags/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
+                  <a href="//www.daraz.com.bd/womens-sports/">
+                   <span>
+                    Women Shoes &amp; Clothing
+                   </span>
+                  </a>
+                  <script class="J_data_10_1" type="text">
+                   [{"childCategoryName":"Clothing","childCategoryUrl":"//www.daraz.com.bd/women-sports-clothing/"},{"childCategoryName":"Shoes","childCategoryUrl":"//www.daraz.com.bd/womens-sports-shoes/"},{"childCategoryName":"Accessories","childCategoryUrl":"//www.daraz.com.bd/women-sport-clothing-accessories/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
+                  <a href="//www.daraz.com.bd/outdoor-activities/">
+                   <span>
+                    Outdoor Recreation
+                   </span>
+                  </a>
+                  <script class="J_data_10_2" type="text">
+                   [{"childCategoryName":"Golf","childCategoryUrl":"//www.daraz.com.bd/golf/"},{"childCategoryName":"Camping & Hiking","childCategoryUrl":"//www.daraz.com.bd/camping-hiking/"},{"childCategoryName":"Bikes","childCategoryUrl":"//www.daraz.com.bd/bikes/"},{"childCategoryName":"Fishing","childCategoryUrl":"//www.daraz.com.bd/fishing/"},{"childCategoryName":"Skateboards","childCategoryUrl":"//www.daraz.com.bd/skateboarding/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
+                  <a href="//www.daraz.com.bd/exercise-fitness/">
+                   <span>
+                    Exercise &amp; Fitness
+                   </span>
+                  </a>
+                  <script class="J_data_10_3" type="text">
+                   [{"childCategoryName":"Treadmills","childCategoryUrl":"//www.daraz.com.bd/treadmills/"},{"childCategoryName":"Exercise Bikes","childCategoryUrl":"//www.daraz.com.bd/exercise-bikes/"},{"childCategoryName":"Elliptical Trainers","childCategoryUrl":"//www.daraz.com.bd/elliptical-trainer/"},{"childCategoryName":"Weights","childCategoryUrl":"//www.daraz.com.bd/weight-training/"},{"childCategoryName":"Strength Training Equipment","childCategoryUrl":"//www.daraz.com.bd/strength-training-equipment/"},{"childCategoryName":"Fitness Accessories","childCategoryUrl":"//www.daraz.com.bd/weights-accessories/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
+                  <a href="//www.daraz.com.bd/water-sports/">
+                   <span>
+                    Water Sports
+                   </span>
+                  </a>
+                  <script class="J_data_10_4" type="text">
+                   [{"childCategoryName":"Goggles","childCategoryUrl":"//www.daraz.com.bd/swimming-goggles/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
+                  <a href="//www.daraz.com.bd/racket-sports/">
+                   <span>
+                    Racket Sports
+                   </span>
+                  </a>
+                  <script class="J_data_10_5" type="text">
+                   [{"childCategoryName":"Badminton","childCategoryUrl":"//www.daraz.com.bd/badminton/"},{"childCategoryName":"Squash","childCategoryUrl":"//www.daraz.com.bd/squash/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
+                  <a href="//www.daraz.com.bd/team-sports/">
+                   <span>
+                    Team Sports
+                   </span>
+                  </a>
+                  <script class="J_data_10_6" type="text">
+                   [{"childCategoryName":"Football","childCategoryUrl":"//www.daraz.com.bd/football/"},{"childCategoryName":"Cricket","childCategoryUrl":"//www.daraz.com.bd/cricket-sports/"},{"childCategoryName":"Basketball","childCategoryUrl":"//www.daraz.com.bd/sports-basketball/"},{"childCategoryName":"Volleyball","childCategoryUrl":"//www.daraz.com.bd/volleyball/"}]
+                  </script>
+                 </li>
+                </ul>
+                <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
+                  <a href="//www.daraz.com.bd/automotive-diy-gadgets/">
+                   <span>
+                    Automotive
+                   </span>
+                  </a>
+                  <script class="J_data_11_0" type="text">
+                   [{"childCategoryName":"Auto Oils & Fluids","childCategoryUrl":"//www.daraz.com.bd/oils-fluids/"},{"childCategoryName":"Interior Accessories","childCategoryUrl":"//www.daraz.com.bd/interior-accessories/"},{"childCategoryName":"Exterior Accessories","childCategoryUrl":"//www.daraz.com.bd/exterior-accessories/"},{"childCategoryName":"Electronic Accessories","childCategoryUrl":"//www.daraz.com.bd/automotive-electrical-appliances/"},{"childCategoryName":"GPS","childCategoryUrl":"//www.daraz.com.bd/car-gps/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
+                  <a href="//www.daraz.com.bd/oils-fluids/">
+                   <span>
+                    Auto Oils &amp; Fluids
+                   </span>
+                  </a>
+                  <script class="J_data_11_1" type="text">
+                   [{"childCategoryName":"Additives","childCategoryUrl":"//www.daraz.com.bd/car-treatment-lubricants/"},{"childCategoryName":"Transmission Fluids","childCategoryUrl":"//www.daraz.com.bd/gear-oil/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
+                  <a href="//www.daraz.com.bd/exterior-accessories/">
+                   <span>
+                    Auto Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_11_2" type="text">
+                   [{"childCategoryName":"Car Covers","childCategoryUrl":"//www.daraz.com.bd/car-covers/"},{"childCategoryName":"Seat Covers & Accessories","childCategoryUrl":"//www.daraz.com.bd/car-seat-covers/"},{"childCategoryName":"Steering Wheels & Accessories","childCategoryUrl":"//www.daraz.com.bd/steering-wheels-accessories/"},{"childCategoryName":"Electronic Accessories","childCategoryUrl":"//www.daraz.com.bd/automotive-electrical-appliances/"},{"childCategoryName":"Floor Mats & Cargo Liners","childCategoryUrl":"//www.daraz.com.bd/floor-dashboard-mats/"},{"childCategoryName":"Air Fresheners","childCategoryUrl":"//www.daraz.com.bd/car-freshener/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
+                  <a href="//www.daraz.com.bd/automotive-exterior-vehicle-care/">
+                   <span>
+                    Auto Care
+                   </span>
+                  </a>
+                  <script class="J_data_11_3" type="text">
+                   [{"childCategoryName":"Polishes & Waxes","childCategoryUrl":"//www.daraz.com.bd/car-polish/"},{"childCategoryName":"Vacuums","childCategoryUrl":"//www.daraz.com.bd/vaccum-cleaners/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
+                  <a href="//www.daraz.com.bd/car-electronics-accessories/">
+                   <span>
+                    Auto Electronics
+                   </span>
+                  </a>
+                  <script class="J_data_11_4" type="text">
+                   [{"childCategoryName":"Car Audio","childCategoryUrl":"//www.daraz.com.bd/car-audio/"},{"childCategoryName":"Speakers","childCategoryUrl":"//www.daraz.com.bd/car-speakers/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
+                  <a href="//www.daraz.com.bd/automotive-motorcycles/">
+                   <span>
+                    Motorcycle
+                   </span>
+                  </a>
+                  <script class="J_data_11_5" type="text">
+                   [{"childCategoryName":"Scooters","childCategoryUrl":"//www.daraz.com.bd/motorcycle-scooters/"},{"childCategoryName":"Standard Bikes","childCategoryUrl":"//www.daraz.com.bd/motorcycles/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
+                  <a href="//www.daraz.com.bd/motorcycle-parts-spares/">
+                   <span>
+                    Moto Parts &amp; Accessories
+                   </span>
+                  </a>
+                  <script class="J_data_11_6" type="text">
+                   [{"childCategoryName":"Drivetrain & Transmission","childCategoryUrl":"//www.daraz.com.bd/motorcycle-drivetrain-transmission/"},{"childCategoryName":"Oils & Fluids","childCategoryUrl":"//www.daraz.com.bd/motorcycle-oils-fluids/"},{"childCategoryName":"Tools & Maintenance","childCategoryUrl":"//www.daraz.com.bd/motorcycle-tools-maintenance/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
+                  <a href="//www.daraz.com.bd/motorcycle-riding-gear/">
+                   <span>
+                    Motorcycle Riding Gear
+                   </span>
+                  </a>
+                  <script class="J_data_11_7" type="text">
+                   [{"childCategoryName":"Helmet","childCategoryUrl":"//www.daraz.com.bd/motorcycle-helmets/"},{"childCategoryName":"Gloves","childCategoryUrl":"//www.daraz.com.bd/motorcycle-gloves/"},{"childCategoryName":"Eyewear","childCategoryUrl":"//www.daraz.com.bd/motorcycle-goggles/"}]
+                  </script>
+                 </li>
+                 <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
+                  <a href="//www.daraz.com.bd/automotive/">
+                   <span>
+                    Automobile
+                   </span>
+                  </a>
+                  <script class="J_data_11_8" type="text">
+                   [{"childCategoryName":"Sedans","childCategoryUrl":"//www.daraz.com.bd/sedans-cars/"},{"childCategoryName":"Wagons","childCategoryUrl":"//www.daraz.com.bd/wagons/"}]
+                  </script>
+                 </li>
+                </ul>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+           <nav class="lzd-menu-labels" data-spm="menu">
+            <a class="lzd-menu-labels-item" href="//www.daraz.com.bd/daraz-mall/?wh_weex=true&amp;wx_navbar_transparent=true&amp;wh_showError=true&amp;scm=1003.4.icms-zebra-100031732-2893410.OTHER_5938040530_4194991">
+             <i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+              
+             </i>
+             <span class="lzd-menu-labels-item-text">
+              DarazMall
+             </span>
+            </a>
+            <a class="lzd-menu-labels-item" href="//pages.daraz.com.bd/wow/i/bd/eid-big-sale/global-collection?hybrid=1&amp;scm=1003.4.icms-zebra-100031732-2893410.OTHER_5938040531_4194991">
+             <i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+              
+             </i>
+             <span class="lzd-menu-labels-item-text">
+              Global Collection
+             </span>
+            </a>
+            <a class="lzd-menu-labels-item" href="//www.daraz.com.bd/topups-and-estore/?scm=1003.4.icms-zebra-100031732-2893410.OTHER_5938040532_4194991">
+             <i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+              
+             </i>
+             <span class="lzd-menu-labels-item-text">
+              Top Up &amp; eStore
+             </span>
+            </a>
+            <a class="lzd-menu-labels-item" href="//pages.daraz.com.bd/wow/i/bd/cp-campaigns/masher-bazar?hybrid=1&amp;scm=1003.4.icms-zebra-100031732-2893410.OTHER_5938040533_4194991">
+             <i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+              
+             </i>
+             <span class="lzd-menu-labels-item-text">
+              Masher Bazar
+             </span>
+            </a>
+            <a class="lzd-menu-labels-item" href="//pages.daraz.com.bd/wow/i/bd/eid-big-sale/vouchers?hybrid=1&amp;scm=1003.4.icms-zebra-100031732-2893410.OTHER_5938040534_4194991">
+             <i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
+              
+             </i>
+             <span class="lzd-menu-labels-item-text">
+              Vouchers
+             </span>
+            </a>
+           </nav>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <script>
+     function generateUUID() {
+  var d = new Date().getTime();
+  var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(
+    c
+  ) {
+    var r = ((d + Math.random() * 16) % 16) | 0;
+    d = Math.floor(d / 16);
+    return (c == 'x' ? r : (r & 0x7) | 0x8).toString(16);
+  });
+  return uuid;
+}
+
+var lzdDocCookies = {
+  getItem: function(sKey) {
+    return (
+      decodeURIComponent(
+        document.cookie.replace(
+          new RegExp(
+            '(?:(?:^|.*;)\\s*' +
+              encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, '\\$&') +
+              '\\s*\\=\\s*([^;]*).*$)|^.*$'
+          ),
+          '$1'
+        )
+      ) || null
+    );
+  },
+  setItem: function(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+    if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
+      return false;
+    }
+    var sExpires = '';
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate() + vEnd);
+    sExpires = ';expires=' + exdate.toGMTString();
+    document.cookie =
+      encodeURIComponent(sKey) +
+      '=' +
+      encodeURIComponent(sValue) +
+      sExpires +
+      (sDomain ? '; domain=' + sDomain : '') +
+      (sPath ? '; path=' + sPath : '; path=/') +
+      (bSecure ? '; secure' : '');
+    return true;
+  },
+  hasItem: function(sKey) {
+    if (!sKey) {
+      return false;
+    }
+    return new RegExp(
+      '(?:^|;\\s*)' +
+        encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, '\\$&') +
+        '\\s*\\='
+    ).test(document.cookie);
+  },
+  removeItem: function(sKey, sPath, sDomain) {
+    if (!this.hasItem(sKey)) {
+      return false;
+    }
+    document.cookie =
+      encodeURIComponent(sKey) +
+      '=; expires=Thu, 01 Jan 1970 00:00:00 GMT' +
+      (sDomain ? '; domain=' + sDomain : '') +
+      (sPath ? '; path=' + sPath : '; path=/');
+
+    return true;
+  }
+};
+
+var LZD_HOST_ARRAY = [
+  '.lazada.co.id',
+  '.lazada.com.my',
+  '.lazada.com.ph',
+  '.lazada.sg',
+  '.lazada.co.th',
+  '.lazada.vn',
+  '.daraz.com.bd',
+  '.daraz.lk',
+  '.shop.com.mm',
+  '.daraz.com.np',
+  '.daraz.pk',
+  '.lazada.test'
+];
+var currentDomain = '.lazada.sg';
+var UUID = generateUUID();
+var t_uid = lzdDocCookies.getItem('t_uid');
+var anon_uid = lzdDocCookies.getItem('anon_uid');
+for (var i = 0; i < LZD_HOST_ARRAY.length; i++) {
+  if (window.location.host.indexOf(LZD_HOST_ARRAY[i]) > -1) {
+    currentDomain = LZD_HOST_ARRAY[i];
+  }
+}
+
+if (!lzdDocCookies.getItem('lzd_cid')) {
+  lzdDocCookies.setItem('lzd_cid', UUID, 365, null, currentDomain);
+}
+
+if (!lzdDocCookies.getItem('t_uid')) {
+  if (anon_uid) {
+    lzdDocCookies.setItem('t_uid', anon_uid, 365, null, currentDomain);
+  } else {
+    lzdDocCookies.setItem('t_uid', UUID, 365, null, currentDomain);
+  }
+}
+    </script>
+   </div>
+  </div>
+  <input id="header-pc-config" type="hidden" value='{"voyagerVersion":"2","voyagerEnv":"product","assetsRefactor":false,"regionID":"BD","language":"en","react":false,"needUmid":false,"channel":"shop","version":{"nav":"5.4.12","search":"0.0.2","menu":"5.1.0","menuNav":"5.1.1","suffix":"-daraz"},"needRetCode":true,"retCodePageName":"","hideCategory":true,"needReact":false,"thymeleaf":false,"grayFilter":{"TH":false,"SG":false,"MY":false,"ID":false,"PH":false,"VN":false},"isHomePage":false,"isMiniHeader":false,"java":true}'>
+   <!-- crossImage -->
+   <div class="root" id="container" style="background-color:null; ">
+    <div class="loadingWrap" id="shopLoading">
+     <div class="shopLoading">
+      <img src="//laz-img-cdn.alicdn.com/images/ims-web/TB1A_v7oSYTBKNjSZKbXXXJ8pXa-200-200.gif">
+      </img>
+     </div>
+    </div>
+   </div>
+   <style>
+    .root .loadingWrap, .root .shopLoading {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        min-height: 50vh;
+    }
+
+    .root .shopLoading {
+        padding: 100px
+    }
+
+    .root .shopLoading img {
+        width: 80px;
+        height: 80px
+    }
+   </style>
+   <input id="footer-pc-config" type="hidden" value='{"voyagerVersion":"2","voyagerEnv":"product","assetsRefactor":false,"regionID":"BD","language":"en","react":false,"needUmid":false,"channel":"shop","version":{"nav":"5.4.12","search":"0.0.2","menu":"5.1.0","menuNav":"5.1.1","suffix":"-daraz"},"needRetCode":true,"retCodePageName":"","hideCategory":true,"needReact":false,"thymeleaf":false,"grayFilter":{"TH":false,"SG":false,"MY":false,"ID":false,"PH":false,"VN":false},"isHomePage":false,"isMiniHeader":false,"java":true}'/>
+   <link href="//laz-g-cdn.alicdn.com/lzdmod/desktop-footer-daraz/5.2.38/??pc/index.css" rel="stylesheet"/>
+   <script>
+    window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer-daraz/pc/index.css"];
+   </script>
+   <div class="mui-zebra-module" data-module-id="1362278930" data-spm="1362278930" data-version="5.2.38" id="J_1362278930">
+    <section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer-daraz/pc/index">
+     <div class="footer-first">
+      <div class="drz-footer-inner" data-spm="footer_top">
+       <div class="drz-footer-width-25">
+        <h3 class="footer-title footer-title-first">
+         Customer Care
+        </h3>
+        <ul class="footer-list">
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/helpcenter?scm=1003.4.icms-zebra-100022982-2888436.OTHER_5476360781_2538013">
+           Help Center
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/helpcenter/order/?scm=1003.4.icms-zebra-100022982-2888436.OTHER_5476360782_2538013">
+           How to Buy
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//tracker.lel.asia/?scm=1003.4.icms-zebra-100022982-2888436.OTHER_5476360783_2538013">
+           Track Your Order
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/wow/i/bd/help-pages/how-to-return?hybrid=1&amp;scm=1003.4.icms-zebra-100022982-2888436.OTHER_5476360785_2538013">
+           Returns &amp; Refunds
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/contact-us/?scm=1003.4.icms-zebra-100022982-2888436.OTHER_5476360786_2538013">
+           Contact Us
+          </a>
+         </li>
+        </ul>
+        <h3 class="footer-title">
+         Earn With Daraz
+        </h3>
+        <ul class="footer-list">
+         <li class="footer-li">
+          <a href="//university.daraz.com.bd?scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361449_2538025">
+           Daraz University
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/wow/i/bd/help-pages/sell-on-daraz?spm=a2a0e.11779145.header.d2.efc41b94ejGun9&amp;hybrid=1&amp;scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361450_2538025">
+           Sell on Daraz
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/wow/i/bd/help-pages/code-of-conduct?hybrid=1&amp;scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361451_2538025">
+           Code of Conduct
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="drz-footer-width-25">
+        <ul class="footer-list">
+        </ul>
+        <h3 class="footer-title">
+         Daraz
+        </h3>
+        <ul class="footer-list">
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/wow/i/bd/about-us/about-us/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_5476361486_2538033">
+           About Daraz
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com/work-at-daraz.php?scm=1003.4.icms-zebra-100022982-2888463.OTHER_5476361487_2538033">
+           Careers
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//blog.daraz.com.bd/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_5813458752_2538033">
+           Daraz Blog
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/wow/i/bd/landingpage/amar-daraz?hybrid=1&amp;scm=1003.4.icms-zebra-100022982-2888463.OTHER_5821325915_2538033">
+           Amar Daraz
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/wow/i/bd/help-pages/terms-and-conditions/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_5476361488_2538033">
+           Terms &amp; Conditions
+          </a>
+         </li>
+         <li class="footer-li">
+          <a href="//www.daraz.com.bd/wow/i/bd/help-pages/privacy-policy?hybrid=1&amp;scm=1003.4.icms-zebra-100022982-2888463.OTHER_5476361489_2538033">
+           Privacy Policy
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="drz-footer-width-50">
+        <div class="drz-footer-width-50 drz-float-store-icons">
+         <div class="drz-footer-float-left">
+          <img alt="" class="icon-logo-QR-footer" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1nvAvXMFY.1VjSZFnXXcFHXXa.png"/>
+         </div>
+         <div class="drz-footer-float-left">
+          <div class="">
+           <div class="icon-logo-bottom-align">
+            <img alt="" class="icon-logo-lazada-footer" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1FryUrgZC2uNjSZFnXXaxZpXa.png"/>
+           </div>
+           <div class="title pull-left">
+            Happy Shopping
+           </div>
+           <div class="text">
+            Download App
+           </div>
+           <div class="pull-left drz-app-download-text">
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- aone 16851167 -->
+        <div class="drz-footer-app-downloads">
+         <a class="drz-footer-sprit pull-left icon-appStore-footer icon-yatra-img-appstore" href="//itunes.apple.com/app/id978058048?mt=8&amp;scm=1003.4.icms-zebra-100022982-2874591.OTHER_5436817469_2538051">
+         </a>
+         <a class="drz-footer-sprit pull-left icon-android-footer icon-yatra-img-google-play" href="//play.google.com/store/apps/details?id=com.daraz.android&amp;scm=1003.4.icms-zebra-100022982-2874591.OTHER_5436817469_2538051">
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="footer-second">
+      <div class="drz-footer-inner">
+       <div class="drz-footer-width-25 payment-column">
+        <h3 class="footer-title">
+         Payment Methods
+        </h3>
+        <span class="drz-icon-payment drz-footer-sprit icon-yatra-payment-1">
+        </span>
+        <span class="drz-icon-payment drz-footer-sprit icon-yatra-payment-7">
+        </span>
+        <span class="drz-icon-payment drz-footer-sprit icon-yatra-payment-8">
+        </span>
+        <span class="drz-icon-payment drz-footer-sprit icon-yatra-payment-3">
+        </span>
+        <span class="drz-icon-payment drz-footer-sprit icon-yatra-payment-2">
+        </span>
+       </div>
+       <div class="drz-footer-width-25" data-spm="venture">
+        <h3 class="footer-title">
+         Daraz International
+        </h3>
+        <a class="drz-footer-sprit drz-footer-country icon-yatra-v-pk" href="//www.daraz.pk/?scm=1003.4.icms-zebra-100022982-2888485.OTHER_5436819021_2538060">
+        </a>
+        <a class="drz-footer-sprit drz-footer-country icon-yatra-v-bd" href="//www.daraz.com.bd/?scm=1003.4.icms-zebra-100022982-2888485.OTHER_5436819022_2538060">
+        </a>
+        <a class="drz-footer-sprit drz-footer-country icon-yatra-v-lk" href="//www.daraz.lk/?scm=1003.4.icms-zebra-100022982-2888485.OTHER_5436819023_2538060">
+        </a>
+        <a class="drz-footer-sprit drz-footer-country icon-yatra-v-mm" href="//www.shop.com.mm/en/?scm=1003.4.icms-zebra-100022982-2888485.OTHER_5436819024_2538060">
+        </a>
+        <a class="drz-footer-sprit drz-footer-country icon-yatra-v-np" href="//www.daraz.com.np/?scm=1003.4.icms-zebra-100022982-2888485.OTHER_5436819025_2538060">
+        </a>
+       </div>
+       <div class="drz-footer-width-25">
+        <h3 class="footer-title">
+         Follow Us
+        </h3>
+        <a class="drz-follow-us-icon drz-footer-sprit icon-yatra-s-fb" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" href="//www.facebook.com/DarazBangladesh?scm=1003.4.icms-zebra-100022982-2933596.OTHER_5476239794_2580063" target="_blank">
+        </a>
+        <a class="drz-follow-us-icon drz-footer-sprit icon-yatra-s-dblog" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_dbl" href="//blog.daraz.com.bd/?scm=1003.4.icms-zebra-100022982-2933596.OTHER_5615620668_2580063" target="_blank">
+        </a>
+        <a class="drz-follow-us-icon drz-footer-sprit icon-yatra-s-youtube" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" href="//www.youtube.com/c/DarazBangladeshOfficial?scm=1003.4.icms-zebra-100022982-2933596.OTHER_5476239798_2580063" target="_blank">
+        </a>
+        <a class="drz-follow-us-icon drz-footer-sprit icon-yatra-s-twitter" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_twr" href="//twitter.com/DarazBangladesh/?scm=1003.4.icms-zebra-100022982-2933596.OTHER_5476239795_2580063" target="_blank">
+        </a>
+        <a class="drz-follow-us-icon drz-footer-sprit icon-yatra-s-insta" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" href="//instagram.com/darazbangladesh?scm=1003.4.icms-zebra-100022982-2933596.OTHER_5476239796_2580063" target="_blank">
+        </a>
+       </div>
+       <div class="drz-footer-width-25">
+        <h3 class="footer-title">
+         Verified by
+        </h3>
+        <i class="drz-footer-sprit icon-android-footer icon-yatra-img-pci-compliant">
+        </i>
+       </div>
+       <h3 class="drz-copyright">
+        © Daraz 2019
+       </h3>
+      </div>
+     </div>
+    </section>
+    <div id="webim-container" onclick="javascript:goldlog.record('/lazada.IM.im-msgbox','CLK','platform=desktop&amp;pagename='+ window.LZD_RETCODE_PAGENAME || 'other','GET')">
+    </div>
+    <script>
+     var imJsLink = '//laz-g-cdn.alicdn.com/lzdmod/im/5.0.75/index.js';
+var imCssLink = '//laz-g-cdn.alicdn.com/lzdmod/im/5.0.75/index.css';
+
+
+window.onload = function() {
+  window._imSDKconfig = window._imSDKconfig || { region: g_config.regionID.toLowerCase(), lang: g_config.language, version: '5.0.75', enabled: /enable_webim=true/.test(document.location.search) || true };
+  if (window._imSDKconfig.disabled || !window._imSDKconfig.enabled) { return; }
+  var imy = document.createElement('link'); imy.rel = 'stylesheet'; imy.href = imCssLink;
+  var sty = document.getElementsByTagName('link')[0]; sty.parentNode.insertBefore(imy, sty);
+  var ims = document.createElement('script'); ims.type = 'text/javascript'; ims.async = true; ims.src = imJsLink;
+  var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(ims, scr);
+  var done = false; ims.onload = ims.onreadystatechange = function() {
+    if (!done && (!this.readyState || this.readyState==='loaded' || this.readyState==='complete')) {
+        done = true; window._chat && window._chat.init(window._imSDKconfig).render('webim-container');
+    }
+  };
+};
+    </script>
+   </div>
+   <script>
+    window.g_config = window.g_config || {};window.g_config.seed = window.g_config.seed || {"packages":{"@ali/lzdmod-site-nav-fragment":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-fragment/5.2.22/","version":"5.2.22","weex":true},"@ali/mui-feloader":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/feloader/5.0.0/","version":"5.0.0","name":"@ali/mui-feloader","base":"//g.alicdn.com/mui/feloader/5.0.0/"},"@ali/lzdmod-loader":{"group":"lzd","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/loader/5.0.2/","version":"5.0.2","name":"@ali/lzdmod-loader","base":"//g.alicdn.com/lzdmod/loader/5.0.2/"},"@ali/lzdmod-common-info":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/common-info/6.0.14/","version":"6.0.14","weex":true},"@ali/lzdmod-jquery":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/jquery/5.0.9/","version":"5.0.9","weex":false},"@ali/lzdmod-site-nav-pc-daraz":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-pc-daraz/5.4.12/","version":"5.4.12","name":"@ali/lzdmod-site-nav-pc-daraz","base":"//g.alicdn.com/lzdmod/site-nav-pc-daraz/5.4.12/"},"@ali/mui-i18n":{"debug":true,"group":"g","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/i18n/5.0.4/","version":"5.0.4"},"@ali/lzdmod-site-menu-pc-daraz":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-pc-daraz/5.1.0/","version":"5.1.0","weex":true,"name":"@ali/lzdmod-site-menu-pc-daraz","base":"//g.alicdn.com/lzdmod/site-menu-pc-daraz/5.1.0/"},"@ali/lzdmod-site-menu-nav-pc-daraz":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-nav-pc-daraz/5.1.1/","version":"5.1.1","weex":true,"name":"@ali/lzdmod-site-menu-nav-pc-daraz","base":"//g.alicdn.com/lzdmod/site-menu-nav-pc-daraz/5.1.1/"},"@ali/lzdmod-site-menu-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.47/","version":"5.0.47","weex":true},"@ali/lzdmod-desktop-footer-daraz":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/desktop-footer-daraz/5.2.38/","version":"5.2.38","weex":false,"name":"@ali/lzdmod-desktop-footer-daraz","base":"//g.alicdn.com/lzdmod/desktop-footer-daraz/5.2.38/"}},"modules":{"@ali/lzdmod-site-nav-fragment/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/affiliate/index":{"requires":["@ali/lzdmod-common-info/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/common/popper/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/download-app/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-jquery/index","@ali/lzdmod-site-nav-pc-daraz/i18n","../reqwest/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/links-bar/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index","../reqwest/index","../common/popper/index","../cart/index","../download-app/index","../track-order/index","../switch-lang/index","../user-info/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/liveup/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/logo-bar/index":{"requires":["../search-box/index","../liveup/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/search-box/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/switch-lang/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/track-order/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-site-nav-pc-daraz/i18n","@ali/lzdmod-jquery/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc-daraz/assets/user-info/index":{"requires":["@ali/lzdmod-site-nav-pc-daraz/i18n","@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc-daraz/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc-daraz/pc/index":{"requires":["@ali/lzdmod-jquery/index","../assets/links-bar/index","../assets/affiliate/index","../assets/logo-bar/index"]},"@ali/lzdmod-site-menu-pc-daraz/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-pc-daraz/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-menu-nav-pc-daraz/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-nav-pc-daraz/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-menu-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-desktop-footer-daraz/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-desktop-footer-daraz/pc/index":{"requires":["@ali/lzdmod-jquery/index","./reqwest/index"]},"@ali/lzdmod-desktop-footer-daraz/weex/index":{"requires":["@ali/lzdmod-desktop-footer-daraz/i18n-native"]},"@ali/lzdmod-desktop-footer-daraz/weex/weex":{"requires":["@ali/lzdmod-desktop-footer-daraz/i18n-native"]},"@ali/mui-i18n/index":{"requires":["@ali/mui-i18n/format"]}},"combine":true,"forceAssetsHost":"laz-g-cdn.alicdn.com"};
+   </script>
+   <script src="//laz-g-cdn.alicdn.com/??mui/feloader/5.0.0/feloader-min.js,lzdmod/site-nav-pc-daraz/5.4.12/pc/index.js,lzdmod/jquery/5.0.9/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/links-bar/index.js,lzdmod/common-info/6.0.14/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/reqwest/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/common/popper/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/cart/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/download-app/index.js,lzdmod/site-nav-pc-daraz/5.4.12/i18n.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/track-order/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/switch-lang/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/user-info/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/affiliate/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/logo-bar/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/search-box/index.js,lzdmod/site-nav-pc-daraz/5.4.12/assets/liveup/index.js,lzdmod/site-menu-pc-daraz/5.1.0/pc/index.js,lzdmod/site-menu-nav-pc-daraz/5.1.1/pc/index.js,lzdmod/desktop-footer-daraz/5.2.38/pc/index.js,lzdmod/desktop-footer-daraz/5.2.38/pc/reqwest/index.js">
+   </script>
+   <script src="//laz-g-cdn.alicdn.com/lzdmod/loader/5.0.2/??index.js">
+   </script>
+   <script src="//laz-g-cdn.alicdn.com/mui/i18n/5.0.4/??index.js,format.js">
+   </script>
+   <script>
+    (function(S) {
+  window.g_config = window.g_config || {};
+  S.config(window.g_config.seed);
+
+  S.config('combine', true);
+  feloader.noConflict();
+
+})(feloader);
+   </script>
+   <script>
+    feloader.require('@ali/lzdmod-site-nav-pc-daraz/pc/index',function(mod){
+    mod()
+  });
+   </script>
+   <script>
+    var lzdRetcodePageName = window.LZD_RETCODE_PAGENAME || '' || location.pathname;
+    var lzdRetcodePid = window.LZD_RETCODE_PID || '';
+
+    !function(c, b, d, a) {
+c[a]||(c[a]={}),c[a].config={pid: lzdRetcodePid,disableHook:true,imgUrl:"https://arms-retcode-sg.aliyuncs.com/r.png?",page: lzdRetcodePageName};
+with(b)with(body)with(appendChild(createElement("script"),firstChild))setAttribute("src",d,defer=true);
+}(window, document, "//laz-g-cdn.alicdn.com/retcode/cloud-sdk/bl.js", "__bl");
+   </script>
+   <script>
+    window.pageData ={"pageUri":"index.htm","pageId":10011183,"title":"Homepage","pageName":"default","sellerId":8,"pageType":1,"shopcenterDomain":"//www.daraz.com.bd/shop","designInfo":"{\"templateType\":0,\"isvName\":\"TimZhou\"}","bizId":1370,"siteId":10004364,"shopId":1370,"lang":"en","defaultLang":"en"};
+   </script>
+   <script>
+    window.__translations__ =    {
+                    "shop.module.unfollow.cancel":"cancel"
+            ,        "shop.profile.keepTime.tip.newSeller.desc":"Seller has been selling on Lazada for less than 3 months."
+            ,        "shop.common.publish.notice.confirm":"Go"
+            ,        "shop.common.pageAndVersion.publishTime":"Current version is published at"
+            ,        "shop.module.voucher.valid.label":"Valid from"
+            ,        "shop.common.filtertool.label.discount":"Discount"
+            ,        "shop.profile.tip.faq":"visit our FAQ"
+            ,        "shop.module.voucher.action.btn":"COPY CODE"
+            ,        "shop.common.publish.success.content":"View published page in desktop:"
+            ,        "shop.common.header.analytics":"Analytics"
+            ,        "shop.common.publish.title":"Are you sure?"
+            ,        "shop.common.page.copy.confirm":"Copy"
+            ,        "shop.common.voucherSelect.label.create":"Create New Voucher"
+            ,        "shop.common.voucherSelect.action.visit":"Visit Page"
+            ,        "shop.common.chat":"Chat Now"
+            ,        "shop.profile.ship.tip.order3.desc":"The time from pick-up to when the package is delivered depends on the shipping method you selected."
+            ,        "shop.common.voucherSelect.title":"Select Voucher"
+            ,        "shop.common.myfollow.and.wishlist":"My Wishlist & Followed Stores"
+            ,        "shop.module.campaign.filter.pricelth":"Price low to high"
+            ,        "shop.module.productlist.nodatatip":"No available products"
+            ,        "shop.common.filtertool.label.filterby":"Filter By"
+            ,        "shop.common.voucherSelect.label.empty":"No vouchers created yet"
+            ,        "shop.common.pageAndVersion.storeCover":"Store Cover"
+            ,        "shop.common.voucherSelect.label.manage":"Manage Vouchers"
+            ,        "shop.common.dialog.ok":"OK"
+            ,        "shop.profile.keepTime.tip.lessThan1yearSeller.desc":"Seller has been selling on Lazada between 3 months to 1 year."
+            ,        "shop.common.filtertool.label.price":"Price Range"
+            ,        "shop.common.page.delete.confirm":"Delete"
+            ,        "shop.profile.ship.tip.order2.title":"Pick up by logistics provider"
+            ,        "shop.profile.keepTime.tip.lessThan3yearSeller.title":"From 1 - 3 years"
+            ,        "shop.common.share":"Share to Social Media"
+            ,        "shop.common.pageAndVersion.version":"All Version"
+            ,        "shop.module.brandicms.megaoffer":"Brand Mega Offers!"
+            ,        "shop.common.header.mypages":"My Pages"
+            ,        "shop.module.topnotice.discounttip":"Hot Deals"
+            ,        "shop.module.unfollow.confirm":"UNFOLLOW"
+            ,        "shop.common.filtertool.placeholder.pricefrom":"Min Price"
+            ,        "shop.common.smartmodule.default":"Selection For You"
+            ,        "shop.common.version.create.confirm":"Create"
+            ,        "shop.module.categoryAuto.allCategory":"All Products"
+            ,        "shop.common.filterTool.label.price":"Price Range"
+            ,        "shop.common.smartmodule.lazmall":"Selection For You"
+            ,        "shop.common.version.create.title":"New Version"
+            ,        "shop.common.lang.vi":"Vietnamese"
+            ,        "shop.common.publish.notice.content":"If you want to get more buyer traffic, please"
+            ,        "shop.common.page.create.title":"New Page"
+            ,        "shop.profile.shopInfo.keepTime":"{unit} on Lazada"
+            ,        "shop.module.countdown.startat":"Start in"
+            ,        "shop.common.filtertool.label.clearall":"Clear All"
+            ,        "shop.common.header.editor":"Editor"
+            ,        "shop.common.filterTool.invalidMessage.priceTo":"Max price needs to be higher than min price"
+            ,        "shop.common.filterTool.label.category":"Category"
+            ,        "shop.common.browser.tip":"Current browser doesn’t support decoration, please change browser to XXX."
+            ,        "shop.common.filtertool.invalidmessage.resultcount":"Please change your filter criteria to have at least {min} products."
+            ,        "shop.common.followers":"Followers"
+            ,        "shop.profile.keepTime.tip.faq.link":"#"
+            ,        "shop.module.product.addToCart":"Add to Cart >"
+            ,        "shop.common.voucherSelect.label.scope":"Apply To"
+            ,        "shop.common.dialog.add":"Add New"
+            ,        "shop.common.page.set.title":"Edit Page"
+            ,        "shop.profile.ship.tip.order1.title":"Ready to Ship"
+            ,        "shop.common.pageAndVersion.edit":"Edit"
+            ,        "shop.common.voucherSelect.label.limit":"Min. Spending"
+            ,        "shop.profile.size.tip.title":"Seller Size"
+            ,        "shop.common.publish.notice.link":"go to create your store cover >"
+            ,        "shop.module.categoryshowbox.findmore":"MORE"
+            ,        "shop.common.categories":"Categories"
+            ,        "shop.common.lang.ur":"Urdu"
+            ,        "shop.common.publish.fail.title":"Publish Failure. Wait for a while and come back!"
+            ,        "shop.common.lang.en":"English"
+            ,        "shop.common.header.servicemarket":"Service Marketplace"
+            ,        "shop.profile.ship.tip.title":"Shipped on Time"
+            ,        "shop.common.voucherSelect.label.validity":"Validity Period"
+            ,        "shop.common.linkTool.tabs.others":"Others"
+            ,        "shop.common.filterTool.label.allCategory":"All Categories"
+            ,        "shop.common.publish.close":"Close"
+            ,        "shop.common.version.delete.title":"Delete Version"
+            ,        "shop.module.categoryshowbox.all":"ALL"
+            ,        "shop.profile.ship.tip.order0.title":"Order Verification"
+            ,        "shop.module.justforyou.title":"Just For You"
+            ,        "shop.common.version.copy.confirm":"Copy"
+            ,        "shop.common.publish.balloon.show":"Do not show this again"
+            ,        "shop.common.device.mobile":"Mobile"
+            ,        "shop.module.threeColumnProducts.title":"HOTTEST DEALS"
+            ,        "shop.common.lang.th":"Thai"
+            ,        "shop.module.flexicombo.title":"Promotion"
+            ,        "shop.profile.shopOrder.cancel":"Cancellations by Seller"
+            ,        "shop.profile.keepTime.years":"{num} + years"
+            ,        "shop.common.publish.success.title":"Publish Successfully"
+            ,        "shop.module.unfollow.btn":"FOLLOWING"
+            ,        "shop.common.linkTool.tabs.filter":"Filtered Products"
+            ,        "shop.common.linkTool.label.preview":"Preview URL"
+            ,        "shop.common.voucherSelect.rules.max":"Maximum number of vouchers selected!"
+            ,        "shop.common.dialog.visitOnline":"Visit My Store"
+            ,        "shop.profile.size.tip.faq.link":"https://www.lazada.sg/helpcenter/seller-size-sg.html?spm=a2o42.other.0.0.4d5c3a29jzZEKS "
+            ,        "shop.common.lang.bn":"Bengali"
+            ,        "shop.module.categoryauto.allcategory":"All Products"
+            ,        "shop.common.voucherSelect.label.name":"Voucher Name"
+            ,        "shop.module.brandicms.hotselling":"Hot Selling!"
+            ,        "shop.common.lang.si":"Sinhala"
+            ,        "shop.common.voucherSelect.scope.shop":"Shop"
+            ,        "shop.module.categoryAuto.title":"MAIN CATEGORIES"
+            ,        "shop.common.new.version.guide.4":"Copy PC from Mobile Editor – One click way to easily streamline your mobile store design with PC store by copying the mobile layout design."
+            ,        "shop.common.new.version.guide.3":"Content Generator – Hassle free tool to come up with new and exciting content for your store, allowing your customers to explore your merchandise and pay attention to your new arrivals. (Disclaimer: This is a beta feature and currently limited to your own store only)."
+            ,        "shop.common.new.version.guide.2":"Mobile Editor – Do you know that 70% of Lazada's sales is transacted via mobile app? Now you can focus on improving and customize your customers' mobile experience through our mobile editor."
+            ,        "shop.module.commom.shopmore":"Shop More"
+            ,        "shop.common.new.version.guide.1":"My Shop Categories-You can create your customized categories tree and select and add products manually or by filter."
+            ,        "shop.common.filterTool.invalidMessage.priceFrom":"Min price needs to be lower than max price"
+            ,        "shop.module.unfollow.title":"Unfollow"
+            ,        "shop.common.noData":"No data!"
+            ,        "shop.common.publish.viewQrcode":"To view published page on mobile, scan the QR code below"
+            ,        "shop.common.filtertool.label.allbrand":"All Brands"
+            ,        "shop.common.header.templates":"Templates"
+            ,        "shop.common.publish.balloon.tips":"Publish this page to show it to customers"
+            ,        "shop.common.filterTool.label.clearAll":"Clear All"
+            ,        "shop.common.filterTool.placeholder.priceTo":"Max Price"
+            ,        "shop.module.countdown.over":"It's Done!"
+            ,        "shop.profile.ship.increaseRate":"than other sellers in same category"
+            ,        "shop.module.threecolumnproducts.title":"HOTTEST DEALS"
+            ,        "shop.profile.size.title.pc":"Seller Size"
+            ,        "shop.profile.chatService.responseRate":"Chat response rate"
+            ,        "shop.common.dialog.success":"Success"
+            ,        "shop.common.dialog.save":"Save"
+            ,        "shop.common.filterTool.label.discount":"Discount"
+            ,        "shop.profile.keepTime.title":"Joined"
+            ,        "shop.common.pageAndVersion.publishedAt":"Published at"
+            ,        "shop.common.filtertool.placeholder.priceto":"Max Price"
+            ,        "shop.module.product.buynow":"Buy Now >"
+            ,        "shop.common.header.toturials":"Lazada University"
+            ,        "shop.module.product.soldout":"SOLD OUT"
+            ,        "shop.profile.ship.increaseRate.worse":"worse than other sellers in same category"
+            ,        "shop.common.urlTips":"Please use English, Numbers, Underline and Dash as Page URL"
+            ,        "shop.profile.chatService.responseTime":"Chat response time"
+            ,        "shop.common.pageAndVersion.copy":"Copy"
+            ,        "shop.common.device.wireless":"Mobile"
+            ,        "shop.module.categoryShowBox.all":"ALL"
+            ,        "shop.module.follow.success.message.pc":"You will be able to view the store updates under"
+            ,        "shop.common.linkTool.tabs.category":"Shop Categories"
+            ,        "shop.common.filtertool.label.category":"Category"
+            ,        "shop.profile.ship.tip.order1.desc":"The seller is packing the products for your order and is awaiting pick-up by the logistics provider."
+            ,        "shop.module.topnotice.discountinfo":"Hot Deals"
+            ,        "shop.module.product.buyNow":"Buy Now >"
+            ,        "shop.profile.keepTime.tip.moreThan3yearSeller.desc":"Seller has been selling on Lazada for more than 3 years."
+            ,        "shop.module.unfollow.content":"If you unfollow selected stores, you won’t be able to view the latest arrival and sales from them anymore."
+            ,        "shop.profile.category.tip.title":"Seller Main Category"
+            ,        "shop.module.categoryauto.title":"MAIN CATEGORIES"
+            ,        "shop.common.filterTool.invalidMessage.discount":"Please enter discount percentage as a whole number"
+            ,        "shop.common.version.edit":"Edit Version"
+            ,        "shop.common.header.campaigntutorial":"Add campaign banner to products!"
+            ,        "shop.common.publish.notice.message":"Congratulations of your successful pubish."
+            ,        "shop.module.whatyousee.title":"Featured Products"
+            ,        "shop.common.voucherSelect.label.discount":"Discount Provided"
+            ,        "shop.profile.chatService.empty":"No Data"
+            ,        "shop.module.voucher.action.copyFailed":"Copy failed! Please copy your voucher code manually."
+            ,        "shop.common.pageManage.publishTime":"Current version:"
+            ,        "shop.module.voucherProducts.title":"Use Voucher on Selected Products"
+            ,        "shop.common.linkTool.feedback.required":"Choose an URL"
+            ,        "shop.common.filterTool.invalidMessage.price":"Please enter price as a number"
+            ,        "shop.common.header.feedback":"Feedback"
+            ,        "shop.module.branditems.sold":"{num} Sold"
+            ,        "shop.common.filterTool.label.allBrand":"All Brands"
+            ,        "shop.common.voucherSelect.collectable":"Collectable"
+            ,        "shop.common.voucherSelect.scope.sku":"SKU"
+            ,        "shop.module.AllProductButton.text":"VIEW ALL PRODUCTS"
+            ,        "shop.module.voucher.action.collecFailed":"Collect failed due to server exception"
+            ,        "shop.module.brandicms.onlytoday":"Only For Today"
+            ,        "shop.module.voucher.copy":"Copy"
+            ,        "shop.profile.keepTime.tip.title":"Joined"
+            ,        "shop.module.productpromotion.title":"LATEST ADDITIONS"
+            ,        "shop.module.campaign.filter.pricehtl":"Price high to low"
+            ,        "shop.module.voucher.action.collecSuccess":"Collected successfully!"
+            ,        "shop.common.filtertool.invalidmessage.priceto":"Max price needs to be higher than min price"
+            ,        "shop.profile.size.tip.content":"Seller size is determined by the no. of items a Seller sold in the last 28 days. Sellers are ranked within their own category."
+            ,        "shop.profile.ship.tip.order2.desc":"The logistics provider picks up the package from Seller."
+            ,        "shop.profile.size.title.mobile":"size"
+            ,        "shop.common.filtertool.invalidmessage.price":"Please enter price as a number"
+            ,        "shop.profile.ship.increaseRate.average":"this is average for sellers in same category"
+            ,        "shop.common.page.label.pageName":"Page Name"
+            ,        "shop.common.header.categories":"My Store Categories"
+            ,        "shop.profile.keepTime.tip.moreThan3yearSeller.title":"More than 3 years"
+            ,        "shop.common.device.pc":"PC"
+            ,        "shop.module.topnotice.defaulttip":"Visit store campaign page for best price!"
+            ,        "shop.common.dialog.PageName":"Page Name"
+            ,        "shop.common.pageAndVersion.delete":"Delete"
+            ,        "shop.common.search.placeholder":"Search in store"
+            ,        "shop.module.follow.btn":"FOLLOW"
+            ,        "shop.common.filtertool.label.brand":"Brand"
+            ,        "shop.common.smartmodule.storeexplore":"Lazada's Favourite Stores"
+            ,        "shop.common.header.help":"Help"
+            ,        "shop.module.allproductbutton.text":"VIEW ALL PRODUCTS"
+            ,        "shop.common.lang.my":"Malaysia"
+            ,        "shop.common.filterTool.placeholder.priceFrom":"Min Price"
+            ,        "shop.common.filterTool.label.keywords":"Search Keywords"
+            ,        "shop.profile.ship.increaseRate.better":"better than other sellers in same category"
+            ,        "shop.common.linkTool.tabs.voucher":"My Vouchers"
+            ,        "shop.common.lang.ne":"Nepali"
+            ,        "shop.common.version.delete.confirm":"Delete"
+            ,        "shop.module.wonderland.prize.default":"Play to grab unbeatable vouchers!"
+            ,        "shop.profile.ship.tip.order0.desc":"Once the Order is Verified, the Seller will be notified of your order."
+            ,        "shop.module.brandicms.daysLeft":"{day} Days Left"
+            ,        "shop.profile.ship.title":"Shipped on Time"
+            ,        "shop.common.pageAndVersion.notPublished":"Not Published"
+            ,        "shop.profile.keepTime.tip.lessThan1yearSeller.title":"From 3 months - 1 year"
+            ,        "shop.common.page.placeholder.pageName":"Enter page name"
+            ,        "shop.common.filterTool.label.filterBy":"Filter By"
+            ,        "shop.profile.ship.tip.content":"Shipped on time measures the Seller's ability to prepare the package and hand it over to the logistics provider within the agreed time period."
+            ,        "shop.common.publish.first":"When publishing for the first time after switching to the new version, all the pages of the website will be changed, including the store page, company information, contact page, product list page, and product details."
+            ,        "shop.module.voucher.action.success":"Success! Paste your code in checkout page."
+            ,        "shop.common.browser.download.btn":"Please download Chrome"
+            ,        "shop.module.brandicms.itsdone":"It\'s done!"
+            ,        "shop.common.filtertool.label.allcategory":"All Categories"
+            ,        "shop.common.lang.ms":"Bahasa Malaysia"
+            ,        "shop.module.countdown.defaulttitle":"Exclusive Products for Mid-Year Campaign"
+            ,        "shop.common.pageAndVersion.lastEditTime":"Modified"
+            ,        "shop.common.publish.notice.title":"Publish Notice"
+            ,        "shop.common.version.delete.content":"Are you sure you want to delete this version?"
+            ,        "shop.profile.size.tip.size5":"Sellers who sold the most no. of products"
+            ,        "shop.module.categoryAuto.allProducts":"All Products"
+            ,        "shop.profile.keepTime.tip.lessThan3yearSeller.desc":"Seller has been selling on Lazada between 1 year to 3 years."
+            ,        "shop.profile.keepTime.months":"{num} + months"
+            ,        "shop.common.voucherSelect.follow":"Follow"
+            ,        "shop.common.dialog.confirm":"Confirm"
+            ,        "shop.common.filtertool.invalidmessage.pricefrom":"Min price needs to be lower than max price"
+            ,        "shop.profile.category.tip.content":"This indicates the main category a Seller conducts their business. A Seller who has less than 50% of sales in a single category will be classified as Multi-category Seller."
+            ,        "shop.module.categoryShowBox.findMore":"MORE"
+            ,        "shop.common.filterTool.invalidMessage.resultCount":"Please change your filter criteria to have at least {min} products."
+            ,        "shop.profile.category.tip.faq.link":"https://www.lazada.sg/helpcenter/seller-main-category-sg.html?spm=a2o42.other.0.0.6b707cfa3Zujq0 "
+            ,        "shop.module.dailycampaign.title":"Daily Campaign"
+            ,        "shop.profile.size.tip.size1":"Sellers who sold the least no. of products"
+            ,        "shop.module.brandicms.sold":"TOTALLY {num} SOLD"
+            ,        "shop.profile.ship.tip.order3.title":"Delivered"
+            ,        "shop.common.filtertool.label.keywords":"Search Keywords"
+            ,        "shop.common.pageAndVersion.set":"Set Up"
+            ,        "shop.profile.ship.tip.faq.link":"https://www.lazada.sg/helpcenter/shipped-on-time-tooltip.html?spm=a2o42.other.0.0.14a914cbnWVolG "
+            ,        "shop.profile.keepTime.newSeller":"New Seller"
+            ,        "shop.profile.location.title":"Location"
+            ,        "shop.common.linkTool.tabs.pdp":"Product Detail Page"
+            ,        "shop.module.flexicombo.name":"Buy More Save More"
+            ,        "shop.common.filtertool.invalidmessage.discount":"Please enter discount percentage as a whole number"
+            ,        "shop.profile.category.title":"Main Category"
+            ,        "shop.module.brandicms.startson":"Starts on {date}"
+            ,        "shop.common.pageAndVersion.preview":"Preview"
+            ,        "shop.common.publish.confirm":"Now released"
+            ,        "shop.common.pageAndVersion.online":"Online"
+            ,        "shop.module.follow.success.message":"You will be able to view the store updates under My Wishlist & Followed Stores on app or PC."
+            ,        "shop.common.linkTool.title":"Image URL Setup"
+            ,        "shop.profile.keepTime.tip.newSeller.title":"New Seller"
+            ,        "shop.common.version.label.versionName":"Version Name"
+            ,        "shop.module.voucher.collect":"Collect"
+            ,        "shop.module.countdown.endin":"Ending in"
+            ,        "shop.common.filterTool.label.brand":"Brand"
+            ,        "shop.common.linkTool.tabs.page":"Customized Page"
+            ,        "shop.common.page.copy.title":"Copy Page"
+            ,        "shop.module.campaign.filter.popularity":"Popularity"
+            ,        "shop.module.justforyou.moreproduct.title":"Shop More Products"
+            ,        "shop.common.publish.btn":"Publish"
+            ,        "shop.module.productPromotion.title":"LATEST ADDITIONS"
+            ,        "shop.common.page.label.pageURL":"Page URL"
+            ,        "shop.common.browserTips":"Current browser doesn’t support decoration, please change browser to XXX."
+            ,        "shop.common.page.create.confirm":"Create"
+            ,        "shop.module.voucher.action.copySuccess":"Copy success! Proceed to paste your code in checkout page."
+            ,        "shop.common.publish.content":"Both mobile AND desktop version of your page will get published together."
+            ,        "shop.profile.tip.more":"For more details"
+            ,        "shop.common.version.copy.title":"Copy Version"
+            ,        "shop.common.page.delete.content":"Are you sure you want to delete this page?"
+            ,        "shop.common.downloadBtnText":"shop.common.downloadBtnText"
+            ,        "shop.common.pageAndVersion.editing":"Editing"
+            ,        "shop.common.version.placeholder.versionName":"Enter version name"
+            ,        "shop.module.product.addtocart":"Add to Cart >"
+            ,        "shop.common.lang.id":"Bahasa"
+            ,        "shop.common.header.content":"Feed Generator"
+            ,        "shop.common.page.delete.title":"Delete page"
+            ,        "shop.common.dialog.cancel":"Cancel"
+        }
+   </script>
+   <!-- 页面数据获取的接口定义，需要拼接好参数 -->
+   <script>
+    window.shopPageDataApi = '//www.daraz.com.bd/shop/renderApi/pcPageData?pageId=10011183&shopId=1370&clientType=pc&lang=en&pageType=1';
+   </script>
+   <!-- pc组件渲染框架 diamond配置项 TODO -->
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/rat/web-rat-framework/0.0.4/index.js">
+   </script>
+   <!-- 页面真实渲染的api,版本号需要diamond配置 -->
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/lazada-decorate/react-pi/0.0.1/pages/pc-web/index.js">
+   </script>
+   <!-- PI组件，平台前端控制版本，从diamond读取 -->
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/code/npm/@ali/shop-pc-pageinit/0.0.15/index.web.cmd.js">
+   </script>
+   <!-- rat基础组件，平台前端维护（大而全）-->
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/code/npm/??rat-provider/0.1.25/index.web.cmd.js,rat-text/0.1.25/index.web.cmd.js,rat-view/0.1.25/index.web.cmd.js,rat-picture/0.1.25/index.web.cmd.js,rat-link/0.1.25/index.web.cmd.js,rat-grid/0.1.25/index.web.cmd.js,rat-video/0.1.25/index.web.cmd.js,rat-multirow/0.1.25/index.web.cmd.js,rat-env/0.1.25/index.web.cmd.js,rat-slider/0.1.25/index.web.cmd.js,rat-overlay/0.1.25/index.web.cmd.js,rat-nav/0.1.25/index.web.cmd.js,rat-input/0.1.25/index.web.cmd.js,rat-form/0.1.25/index.web.cmd.js,rat-util/0.1.25/index.web.cmd.js,rat-dialog/0.1.25/index.web.cmd.js,rat-icon/0.1.25/index.web.cmd.js,rat-button/0.1.25/index.web.cmd.js,rat-message/0.1.25/index.web.cmd.js,rat-iframe/0.1.25/index.web.cmd.js,rat-iconfont/0.1.25/index.web.cmd.js,rat-dropdown/0.1.25/index.web.cmd.js,rat-menu/0.1.25/index.web.cmd.js,rat-balloon/0.1.25/index.web.cmd.js">
+   </script>
+   <!-- rat业务组件，业务前端维护（大而全）-->
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/??code/npm/@ali/rat-shop-lazada-pc-lib/0.0.20/index.web.cmd.js">
+   </script>
+   <!-- 页面包含的模块代码，后端读取页面中包含的模块后组装请求，数组，循环一次，都按如下格式 -->
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/lazadamod/lazada-pc-categoryBar/2.0.8/index.web.cmd.js">
+   </script>
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/lazadamod/lazada-pc-justForYou/1.0.1/index.web.cmd.js">
+   </script>
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/lazadamod/lazada-pc-carouselProductRecommend/1.0.0/index.web.cmd.js">
+   </script>
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/lazadamod/lazada-pc-graphicOneImage/1.0.0/index.web.cmd.js">
+   </script>
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/lazadamod/lazada-pc-graphicCarousel/1.0.0/index.web.cmd.js">
+   </script>
+   <script crossorigin="" src="//laz-g-cdn.alicdn.com/lazadamod/lazada-pc-sliderRecommend/1.0.0/index.web.cmd.js">
+   </script>
+  </input>
+ </body>
+</html>
+sunjun@Sunjun-Work:~/work/webApps/grabber$ 
