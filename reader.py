@@ -1,6 +1,9 @@
 import csv
 from selenium import webdriver
 from bs4 import BeautifulSoup
+import time
+
+start = time.time()
 
 targets = []
 limit = 10
@@ -57,3 +60,6 @@ with open('new_seller.csv', 'w') as csvfile:
     writer.writeheader()
     for target in targets:
         writer.writerow(target)
+
+end = time.time()
+print(end - start)
