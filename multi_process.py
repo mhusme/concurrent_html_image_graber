@@ -5,15 +5,6 @@ from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 import time
 
-def calc_square(number):
-    print('Square:', number * number)
-    result = number * number
-    print(result)
-    return result
-def calc_quad(number):
-    print('Quad:' , number * number * number * number)
-    return number * number * number * number
-
 def grab_image_src(process_id, head, rows):
     targets = []
     limit = 10
@@ -43,8 +34,6 @@ def grab_image_src(process_id, head, rows):
             print(profile['seller_name'], profile['seller_name'], profile['shop_url'])
             targets.append(profile)
 
-    # browser = webdriver.Firefox()
-
     options = Options()
     options.add_argument('--headless')
 
@@ -60,8 +49,7 @@ def grab_image_src(process_id, head, rows):
         img_src = img['src']
 
         if "http" in img_src:
-            # browser.get(img_src)
-            print("hi")
+            pass
         else:
             img_src = "Logo not found!"
 
@@ -90,12 +78,10 @@ if __name__ == "__main__":
         print("haha")
         processes.append(multiprocessing.Process(target=grab_image_src, args=(i,0,0)))
         processes[i].start()
-        # p2 = multiprocessing.Process(target=calc_quad, args=(number,))
 
     for process in processes:
         process.join()
-
-    # Wont print because processes run using their own memory location                     
+                   
     print(result)
     end = time.time()
     print(end - start)
